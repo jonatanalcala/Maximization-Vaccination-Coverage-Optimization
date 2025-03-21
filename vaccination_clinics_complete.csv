@@ -1,0 +1,1660 @@
+City,County,Name,Phone,Street1
+CitySort ascendingSort descending,CountySort ascendingSort descending,NameSort ascendingSort descending,PhoneSort ascendingSort descending,Street1Sort ascendingSort descending
+Stuttgart,Arkansas,Bethea Brothers Drug Company Inc. (Coker Hampton),870-673-2691,218 South Main Street
+Wynne,Cross,Caldwell Pharmacy,870-238-7085,804 South Falls Boulevard
+Manila,Mississippi,"Delta Drug, Inc.",870-561-3113,257 S. Hwy 18 Bypass
+Fairfield Bay,Van Buren,Fairfield Bay Pharmacy,501-884-3388,367 Dave Creek Parkway
+Monette,Craighead,McFarlin Pharmacy Inc,870-486-5220,101 West Drew Street
+Jonesboro,Craighead,Super V Drugs,870-972-6470,1000-A East Matthews
+Berryville,Carroll,Economy Drug,870-423-2094,1006 W. Trimble
+Leachville,Craighead,Southern Pharmacy of Arkansas- Leachville,870-539-6831,109 South Main
+Lepanto,Poinsett,Southern Pharmacy of Arkansas- Lepanto,870-475-2617,730 Greenwood Avenue
+Lake City,Craighead,Southern Pharmacy of Arkansas - Lake City,870-237-8010,803 Highway 18
+Jonesboro,Craighead,Southern Pharmacy of Arkansas- Jonesboro,870-972-1751,3001 Apache Drive
+Marked Tree,Poinsett,Southern Pharmacy of Arkansas- Marked Tree,870-358-2135,203 Newsome Drive
+Monette,Craighead,Southern Pharmacy- Monette,870-486-2111,214 West Drew Avenue
+Little Rock,Pulaski,Cornerstone Pharmacy at Chenal,501-821-2300,16115 Saint Vincent Way
+Prairie Grove,Washington,Collier Drug Prairie Grove,479-846-2195,801 E Douglas
+Fayetteville,Washington,Collier Drug North Hills,479-443-9200,3380 N Futrall Drive
+Centerton,Benton,Collier Drug Centerton,479-795-8199,991 W Centerton Blvd
+Fayetteville,Washington,Collier Drug Elkins,479-442-6060,2491 N Center St
+Springdale,Washington,Collier Drug Willow Creek,479-521-7876,5201 Willow Creek Drive
+Springdale,Washington,Collier Drug Harber,479-361-5727,171 N Maestri Road
+Farmington,Washington,Collier Drug Farmington,479-267-4303,197 E Main
+Fayetteville,Washington,Collier Drug Dickson,479-442-6262,100 W. Dickson
+Little Rock,Pulaski,The Pharmacy at Wellington,501-708-4320,15400 Chenal Parkway
+Hot Springs,Garland,Smith Drug and Compounding- Mercy Lane,501-624-2900,1 Mercy Lane
+Hot Springs,Garland,Smith Drug and Compounding- Airport Rd.,501-767-2220,1629 Airport Rd.
+Conway,Faulkner,Cornerstone Pharmacy Conway,501-328-3282,815 Hogan Lane
+North Little Rock,Pulaski,Cornerstone Pharmacy Rose City,501-945-3264,4307 E. Broadway St
+Jonesboro,Craighead,St. Bernards Medical Center,870-207-4260,225 E Washington Ave
+Fayetteville,Washington,Washington Regional Medical Center,479-463-1000,3215 N North Hills
+Jonesboro,Craighead,NEA Baptist- Jonesboro,870-936-0100,4200 East Johnson Ave
+Springdale,Washington,Premier Pharmacy NWA,479-927-6100,834 E. Henri De Tonti Blvd.
+North Little Rock,Pulaski,Premier Pharmacy NLR,501-992-1006,760 Michaela Dr.
+North Little Rock,Pulaski,Cornerstone Pharmacy Lakewood,501-353-1984,2609 McCain Blvd
+Fayetteville,Washington,Medical Arts Pharmacy,479-443-3411,2515 E. Huntsville Rd
+West Memphis,Arkansas,Baptist Heatlh Crittenden (west memphis),870-394-7800,2100 North 7th Street
+Little Rock,Pulaski,UAMS Health Family Medical Clinic,501-686-6560,521 Jack Stephens
+Little Rock,Pulaski,UAMS- Rahling Road,501-214-2360,1811 Rahling Road
+Little Rock,Pulaski,UAMS Capitol Mall Neighborhood Clinic,501-320-7000,"1401 W. Capitol Avenue, Plaza E"
+Batesville,Independence,UAMS Central Family Medical,870-793-2540,1993 Harrison St
+Maumelle,Pulaski,UAMS Neighborhood Clinic- Maumelle,501-614-2470,102 Town Centre
+Fort Smith,Sebastian,UAMS West- Fort Smith,479-785-2431,1301 south E street
+helena,Phillips,UAMS Family Medical Clinic East,870-572-6507,1393 hwy 242 south
+Texarkana,Miller,UAMS Texarkana,870-779-6000,3417 U of A Way
+Magnolia,Columbia,UAMS Family Medical Clinic Magnolia,870-234-7676,1617 N Washington
+Pine Bluff,Jefferson,UAMS South Central Pine Bluff,870-541-6000,1601 West 40th Avenue
+Jonesboro,Craighead,UAMS Jonesboro,870-972-0063,311 East Matthews
+Little Rock,Pulaski,UAMS Health Financial Centre Parkway Neighborhood Clinic,501-614-2340,11300 Financial Centre Parkway
+Little Rock,Arkansas,UAMS Outpatient Pharmacy,501-686-5530,4110 Outpatient Circle
+Little Rock,Pulaski,UAMS Inpatient Pharmacy,501-686-6224,4301 West Markham Street
+Des Arc,Prairie,Prairie County Health Unit,870-256-4430,204  Main St
+Malvern,Hot Spring,Hot Spring County Health Unit,501-332-6974,2204 W Sullenberger Ave
+DeWitt,Arkansas,Arkansas County Health Unit-DeWitt,870-946-2934,1616 South Madison
+Marianna,Lee,Lee County Health Unit,870-295-2400,141 North Hicky
+Bakerville,Independence,Independence County Health Unit,870-793-8847,120 Weaver Ave
+North Little Rock,Pulaski,Pulaski County Health Unit - NLR,501-791-8551,2800 Willow St
+Pine Bluff,Jefferson,Jefferson County Health Unit,870-353-2142,2306 Rike Drive
+Brinkley,Monroe,Monroe County Health Unit,870-734-1461,306 Martin Luther King Drive
+Newport,Jackson,Jackson County Health Unit,870-523-8968,1505 N. Pecan St.
+Monticello,Drew,Drew County Health Unit,870-367-6234,940 Scogin Drive
+Hope,Hempstead,Hempstead County Health Unit,870-777-2191,808 W 5th Street
+Ashdown,Little River,Little River Health Unit,870-898-3891,150 Keller Street
+Augusta,Woodruff,Woodruff County Health Unit,870-347-5861,623 N. 9th St.
+Mens,Polk,Polk County Health Unit,479-394-2707,702 Hornbeck
+Blytheville,Mississippi,Mississippi County Health Unit - Blytheville,870-763-7064,1299 North 10th Street
+DeQueen,Sevier,Sevier County Health Unit,870-642-2535,304 N. 4th Street
+Little Rock,Pulaski,Arkansas Department of Health,501-661-2723,4815 W. Markham St.
+Earle,Crittenden,Crittenden County Health Unit- Earle,870-735-4334,841 Keith St
+Wynne,Cross,Cross County Health Unit,870-238-2101,701 Julia Ave East
+Lonoke,Lonoke,Lonoke County Health Unit - Lonoke,501-676-2268,306 North Center St.
+El Dorado,Union,Union County Health Unit,870-863-5101,301 American Road
+Fordyce,Dallas,Dallas County Health Unit,870-352-7197,201 N. Spring Street
+Springdale,Washington,Bates Outreach Clinic-Springdale,479-751-3630,614 E. Emma Avenue
+Murfreesboro,Pike,Pike County Health Unit,870-285-3154,15 Cadoo Dr
+Dumas,Desha,Desha County Health Unit - Dumas,870-382-2377,751 Hwy 65 South
+Harrisburg,Poinsett,Poinsett County Health Unit- Harrisburg,870-578-4480,119 N. Main
+Cabot,Lonoke,Lonoke County Health Unit - Cabot,501-843-7561,118 south 1st Street
+Magnolia,Columbia,Columbia County Health Unit,870-235-3798,207 S. Jefferson
+Lake Village,Arkansas,Chicot County Health Unit,870-830-9373,1742 Hwy 65 and 82 South
+Forrest City,St. Francis,St. Francis County Health Unit,870-633-1340,413 North Division St
+Pocahontas,Randolph,Randolph County Health Unit,870-892-5239,1304 Pace Rd.
+Fayetteville,Washington,Washington County Health Unit- Fayetteville,479-521-8181,3270 Wimberly Drive
+Corning,Clay,Clay County Health Unit- Corning,870-857-6281,301 N Missouri
+Camden,Ouachita,Ouachita County Health Unit,870-836-5033,740 California Ave.
+Warren,Bradley,Bradley County Health Unit,870-226-8440,208 North Bragg Street
+Prescott,Nevada,Nevada County Health Unit,870-887-2004,1501 W. 1st. Street North
+Piggott,Clay,Clay County Health Unit- Piggott,870-598-3390,1009 S Garfield
+Benton,Saline,Saline County Health Unit,501-303-5650,1612 Edison Ave
+Heber Springs,Cleburne,Cleburne County Health Unit,501-362-7581,2319 Hwy 110 W
+Rison,Cleveland,Cleveland County Health Unit,870-325-6311,409 East Magnolia
+Hamburg,Ashley,Ashley County Health Unit- Hamburg,870-853-5525,401 North Cherry
+Hot Springs,Garland,Garland County Health Unit,501-624-3394,1425 Malvern Avenue
+McGehee,Desha,Desha County Health Unit - McGehee,870-222-3910,100 East Oak Street
+Walnut Ridge,Lawrence,Lawrence County Health Unit,870-886-3201,1050 W. Free St.
+Ash Flat,Sharp,Sharp County Health Unit,870-994-7364,724 Ash Flat Dr.
+Marked Tree,Poinsett,Poinsett County Health Unit- Marked Tree,870-358-3615,102 Liberty
+Salem,Fulton,Fulton County Health Unit,870-895-3300,510 South Main Street
+Stuttgart,Arkansas,Arkansas County Health Unit-Stuttgart,870-673-1609,1602 North Buerkle Rd
+Conway,Faulkner,Faulkner County Health Unit,501-450-4951,811 North Creek Drive
+Danville,Yell,Yell County Health Unit- Danville,479-495-2741,1309 E 8th Street
+Sheridan,Grant,Grant County Health Unit,870-942-3157,700 E Center St
+Crossett,Ashley,Ashley County Health Unit- Crossett,870-364-2115,1330 West 5th Avenue
+Arkadelphia,Clark,Clark County Health Unit,870-246-4471,605 South 10th
+West Memphis,Crittenden,Crittenden County Health Unit- West Memphis,870-735-4334,901 N 7th Street
+Osceola,Mississippi,Mississippi County Health Unit - Osceola,870-563-2521,720 W. Lee
+Texarkana,Miller,Miller County Health Unit,870-773-2108,503 Walnut Street
+Nashbille,Howard,Howard County Health Unit,870-845-2208,201 E. Hempstead Street
+Fort Smith,Sebastian,Sebastian County Health Unit,479-452-8600,3112 South 70th Street
+Jonesboro,Craighead,Craighead County Health Unit,870-933-4585,611 E Washington
+Melbourne,Izard,Izard County Health Unit,870-368-4125,149 Haley St.
+Morrilton,Conway,Conway County Health Unit- Morrilton,501-354-4652,100 Hospital Drive
+Beebe,White,White County Health Unit Beebe,501-882-5128,306 N. Gum St.
+Dardanelle,Yell,Yell County Health Unit-Dardanelle,479-229-3509,719 North 5th Street
+Perryville,Perry,Perry County Health Unit,501-889-5156,1039 Fourche Ave
+Mountain View,Pulaski,Stone County Health Unit,870-269-3308,204 Whitfield Ave.
+Mount Ida,Montgomery,Montgomery County Health Unit,870-867-2331,346 Lazerne
+Berryville,Carroll,Carroll County Health Unit,870-423-2923,402 Haley Road
+Helena-West Helena,Phillips,Phillips County Health Unit,870-572-9028,110 Shirley Hicks Dr
+Lewisville,Lafayette,Lafayette County Health Unit,870-921-5744,1113 Chestnut Street
+Rogers,Benton,Benton County Health Unit-Rogers,479-986-1300,1200 West Walnut Street
+Clarksville,Lawrence,Johnson County Health Unit,479-754-2949,6 Professional Park Drive
+Hampton,Calhoun,Calhoun County Health Unit,870-798-2808,1119 Prestress Drive
+Marshall,Searcy,Searcy County Health Unit,870-447-3374,742 Airport Road
+Waldron,Scott,Scott County Health Unit,479-637-2165,10 South Main Street
+Russellville,Pope,Pope County Health Unit,479-968-6004,203 Weir Road
+Star City,Lincoln,Lincoln County Health Unit,870-628-5121,214 South Lincoln
+Van Buren,Crawford,Crawford County Health Unit,479-474-6391,2040 Chestnut Street
+Paragould,Greene,Greene County Health Unit,870-236-7782,801 Goldsmith Road
+Little Rock,Pulaski,Pulaski County- WLR WIC Clinic,501-224-1254,11715 Rainwood Dr.
+Huntsville,Madison,Madison County Health Unit,479-738-2612,709 College Avenue
+Jasper,Newton,Newton County Health Unit,870-446-2216,506 West Court Street
+Siloam Springs,Benton,Benton County Health Unit-Siloam Springs,479-549-3794,101 West University
+Little Rock,Pulaski,Pulaski County Health Unit- Central,501-280-3100,3915 West 8th St.
+Paris,Logan,Logan County Health Unit-Paris,479-963-6126,150 South Lowder
+Yellville,Marion,Marion County Health Unit,870-449-4259,707 Hwy 202 West
+Truman,Poinsett,Poinsett County Health Unit- Truman,870-483-5761,1204 W. Main St
+Clinton,Van Buren,Van Buren County Health Unit,501-745-2485,526 Quality Drive
+Fortt Smith,Sebastian,Fort Smith WIC Clinic,479-478-3062,6601 Phoenix Ave
+Ozark,Franklin,Franklin County Health Unit,479-667-2555,799 West River Street
+Searcy,Pulaski,White County Health Unit- Searcy,501-268-6102,112 Brantly Rd.
+Paris,Logan,Logan County Health Unit-Booneville,479-963-6126,150 South Lowder
+Mountain Home,Baxter,Baxter County Health Unit,870-425-3072,206 Bucher Drive
+Harrison,Boone,Boone County Health Unit,870-743-5244,1622 Campus Drive
+Jacksonville,Pulaski,Pulaski County Health Unit- Jacksonville,501-982-7477,3000 North First St
+Little Rock,Pulaski,Express Rx of Otter Creek,501-455-2522,10100 Stagecoach Road
+Cabot,Lonoke,Express Rx of Cabot,501-843-1489,1848 W. Main St
+Sherwood,Pulaski,Express Rx of Sherwood,501-819-6300,8730 Brockington Road
+Little Rock,Pulaski,Express Rx on Cantrell,501-227-0587,7612 Cantrell Road
+Greenwood,Sebastian,Health Depot #3,479-996-9898,1530 West Center Street
+Barling,Sebastian,Health Depot #2,479-452-1237,1610 Fort Street
+Fort Smith,Sebastian,Health Depot #1,479-646-7875,7700 HWY 271 S.
+Harrisburg,Poinsett,Food Giant Discount Pharmacy,870-578-5200,605 N Illinois St.
+Harrisburg,Poinsett,Harrisburg Clinic Pharmacy,870-578-0670,1104 N Illinois St.
+Jonesboro,Craighead,Hilltop Market Pharmacy,870-336-8310,3605 E Johnson Ave
+Bono,Craighead,Bono Family Pharmacy,870-277-1543,10040 N Hwy 63 Suite 4
+Jonesboro,Craighead,Woodsprings Pharmacy,870-972-8310,1807 Woodsprings Rd.
+Russellville,Pope,Rose Drug of Russellville,479-968-1050,3103 W Main Pl
+Hector,Pope,Hector Pharmacy,479-284-2011,11167 SR 27
+Jonesboro,Craighead,Soo's Drug Store,870-932-6930,2822 E. Nettleton
+hot springs,Garland,crawford pharmacy,501-624-4636,107 crawford street
+Melbourne,Izard,Corner Drug Store,870-368-7171,830 E Main Street
+Rogers,Benton,MERCY NORTHWEST HOSP EH - ROGERS,479-338-3351,2710 Rife Medical Lane
+Little Rock,Pulaski,Don's Pharmacy Little Rock,501-225-2222,8609 West Markham
+Maumelle,Pulaski,Achor Family Pharmacy,501-274-1130,1900 Club Manor Drive
+Little Rock,Pulaski,Baptist Health Medical Center - Little Rock,501-202-2126,9601 Baptist Health Drive
+Little Rock,Pulaski,Market Place Pharmacy of LIttle Rock,501-225-5056,11316 Huron Lane
+Little Rock,Pulaski,City Pharmacy #01,501-374-6565,1801 Broadway
+Fort Smith,Sebastian,Coleman Pharmacy- Fort Smith,479-783-5171,3610 Grand Ave
+Lonsdale,Saline,East Gate Pharmacy,501-922-0909,24615 HWY 5
+Lonoke,Lonoke,Lackie Drug Store,501-676-6566,719 N Center
+Clinton,Van Buren,Clinton Drug,501-745-8414,2526 S. HWY 65
+Van Buren,Crawford,Hudson Pharmacy,479-474-1193,1609 Main Street
+Texarkana,Miller,College Hill Drug,870-772-6969,100 East St
+Hot Springs,Garland,Fountain Lake Family Pharmacy,501-547-3400,4517 Park Ave
+Hot Springs Village,Garland,Village Healthmart #1,501-922-0777,4440 N. HWY 7
+Berryville,Carroll,Mercy Hospital Berryville,870-423-5270,214 Carter St.
+Jonesboro,Craighead,The Medicine Shoppe #0618,870-935-1340,325 Southwest Drive
+OZARK,Franklin,MEDI-QUIK PHARMACY,479-667-4145,810 W COMMERCIAL ST
+Paragould,Greene,Oak Grove Rx Express,870-586-9200,4763 Hwy 135 North
+Dierks,Howard,Dierks Pharmacy,870-286-3131,323 Main St
+CONWAY,Faulkner,BAKER DRUG STORE,501-329-5626,924 FRONT ST
+Springdale,Washington,Westside Family Pharmacy,479-756-3232,3819 W Sunset
+Greenbrier,Faulkner,Greenbrier Pharmacy Inc,501-402-4906,61A South Broadview St
+Marianna,Arkansas,Dean's Pharmacy #3,870-295-4100,311 W. Chestnut Street
+Stuttgart,Arkansas,Dean's Pharmacy #2,870-672-4790,102 E. 22nd
+DeWitt,Arkansas,Dean's Pharmacy,870-946-2381,1640 S. Whitehead Drive
+CAVE CITY,Sharp,CAVE CITY PHARMACY,870-283-5589,301 S MAIN STREET
+Paragould,Greene,Hyde Pharmacy Inc,870-239-4036,1001 W. Kingshighway
+Bentonville,Benton,Women's Health Associates of NWA,479-876-8111,500 SE Plaza Ave
+BATESVILLE,Independence,Econo-Mart Pharmacy,870-793-4179,1595 HARRISON STREET
+Ozark,Franklin,Village Pharmacy,479-667-2101,500 W Commercial St
+Jonesboro,Arkansas,"West End Associates, Inc (DBA Soo's West End Pharmacy)",870-932-4742,619 W. Nettleton Avenue
+NEWARK,Independence,NEWARK PHARMACY,870-799-3411,503 VINE ST
+LITTLE ROCK,Pulaski,"THE DRUG STORE, INC",501-223-2636,11121 N. RODNEY PARHAM
+Monticello,Drew,Drew Memorial,870-367-2411,778 Scogin Drive
+North Little Rock,Pulaski,Medicine Man Pharmacy-Springhill,501-476-3514,3201 Springhill Dr.
+Fayetteville,Washington,Live+Well Pharmacy,479-527-9355,767 W North St
+lowell,Benton,Lowell Pharmacy,479-770-0111,114 harrison ave
+Bentonville,Benton,Live+Well Pharmacy,479-271-9355,3500 SW Regional Airport Blvd
+Springdale,Washington,Community Clinic NWA - Mobile Health Unit,855-438-2280,610 E Emma Ave
+Prairie Grove,Washington,Community Clinic NWA - Prairie Grove School Based Health C,855-438-2280,801 Viney Grove Road
+Springdale,Washington,Community Clinic NWA - Parson Hills School Based Health Ce,855-438-2280,2328 Cardinal Dr
+Fayetteville,Washington,Community Clinic NWA - Owl Creek School Based Health Cente,855-438-2280,375 N. Rupple Road
+Springdale,Washington,Community Clinic NWA - George School Based Health Center,855-438-2280,2878 S. Powell Street
+Springdale,Washington,Community Clinic NWA - Jones School Based Health Center,855-438-2280,900 S. Powell Street
+Springdale,Washington,Community Clinic NWA - Elmdale School Based Health Center,855-438-2280,420 North West End
+Siloam Springs,Benton,Community Clinic NWA - Panther School Based Health Center,855-438-2280,1500 North Mt. Olive
+Siloam Springs,Benton,Community Clinic NWA - Siloam Springs,855-438-2280,500 S Mt Olive St.
+Fayetteville,Washington,Community Clinic NWA - Fayetteville,855-438-2280,3162 W. MLK Jr. Blvd.
+Rogers,Benton,Community Clinic NWA - Rogers,855-438-2280,1233 W. Poplar Street
+Springdale,Washington,Community Clinic NWA - Springdale,855-438-2280,610 E. Emma Ave
+Pea Ridge,Benton,Community Clinic NWA - Pea Ridge School Based Health Cente,855-438-2280,1923 W Pickens Rd
+Fayetteville,Washington,"Rainbow Pediatric Clinic, PA",479-966-4664,3159 E Mission Blvd
+Conway,Faulkner,"Conway Medical Park Pharmacy, LLC",501-358-6212,650 United Drive
+SPRINGDALE,Washington,COMMUNITY PHARMACY OF SPRINGDALE,479-750-2220,400 W EMMA AVENUE
+Mountain View,Stone,Mitchell's Main Street Pharmacy,870-269-3253,214 East Main
+North Little Rock,Pulaski,Medicine Man Pharmacy,501-758-7581,2520 Main St
+Dardanelle,Yell,Rose Drug of Dardanelle,479-229-4040,1176 State Hwy 22 West
+Searcy,White,SJD Pharmacy Inc DBA Medic Sav - On Drug,501-268-4121,2806 E. Race
+Van Buren,Crawford,Mercy COVID Vaccine Clinic Northridge,479-314-6334,120 Northridge Drive
+Waldron,Scott,Mercy Family Practice Waldron,479-637-2136,1331 W 6th St
+Booneville,Logan,FTSMMC CCC Vaccine Booneville,479-314-6334,880 West Main
+Fort Smith,Sebastian,Mercy COVID Vaccine Clinic Fort Smith,479-314-6334,7200 Zero Street
+Fort Smith,Sebastian,Mercy Convenient Care River Valley,479-709-8686,3505 S. 79th St
+Fort Smith,Sebastian,Mercy Clinic Primary Care Zero Street,479-573-3082,1400 Zero Street
+Fort Smith,Sebastian,Mercy Clinic Pediatrics Tower West,479-274-3500,6801 Rogers Ave
+Fort Smith,Sebastian,Mercy Clinic Pediatrics Fort Smith,479-274-3500,3224 S. 70th
+Fort Smith,Sebastian,Mercy Clinic Primary Care Cliff Drive,479-274-6000,3700 Cliff Drive
+Fort Smith,Sebastian,Mercy Clinic Primary Care Free Ferry,479-221-9922,1000 S. Waldron Rd
+Fort Smith,Sebastian,Mercy Clinic Primary Care Hope Campus,479-221-9922,301 South E St Suite A
+Barling,Sebastian,Mercy Clinic Primary Care Chaffee Crossing,479-431-3500,7003 Chad Colley Blvd
+Ozark,Franklin,Mercy Clinic Family Medicine Ozark,479-667-1590,201 S 7th Street
+Ozark,Franklin,FTSMMC CCC Vaccine Ozark,479-314-6334,801 West River
+Greenwood,Sebastian,Mercy Clinic Primary Care Greenwood,479-996-4111,20 N Aster
+Fort Smith,Sebastian,Mercy Clinic Internal Medicine Tower West,479-274-4100,6801 Rogers Ave
+Clarksville,Johnson,Mercy Clinic Primary Care Clarksville,479-705-2124,#2 Medicine Drive
+Van Buren,Crawford,Mercy Clinic Family Medicine Van Buren,479-314-4000,2800 Fayetteville Road
+Fort Smith,Sebastian,Mercy Clinic Primary Care Dallas Street,479-314-4940,7800 Dallas Street
+Fort Smith,Sebastian,Mercy Clinic Occupational Medicine,479-274-6350,4300 Regions Park Drive
+Mansfield,Sebastian,Mercy Clinic Family Medicine Mansfield,479-928-4404,100 N. Walnut
+Magazine,Logan,Mercy Clinic Family Medicine Magazine,479-969-8768,351B E. Priddy Street
+Booneville,Logan,Mercy Clinic Family Medicine Booneville,479-675-2455,128 Daniel Ave
+Fort Smith,Sebastian,River Valley Orthopedic Hospital,479-709-6700,3501 W E Knight Drive
+Fort Smith,Sebastian,Mercy Hospital Fort Smith,479-314-6142,7301 Rogers Ave
+Perryville,Perry,Roland Drug Store #1,501-889-5111,112 Houston Ave
+Fort Smith,Sebastian,Baptist Health Fort Smith,479-441-5238,1001 Towson Ave
+Conway,Faulkner,Baptist Health Medical Center-Conway,501-585-2600,1555 Exchange Ave
+Heber Springs,Cleburne,Baptist Health Medical Center Heber Springs,501-887-3238,1800 Bypass Rd
+N Little Rock,Pulaski,Baptist Health Medical Center-NLR,501-202-3043,3333 Springhill Dr
+Malvern,Hot Spring,Baptist Health Medical Center -Hot Spring County,501-332-1000,1001 Schneider Drive
+Arkadelphia,Clark,Baptist Health Medical Center - Arkadelphia,870-245-1260,3050 Twin Rivers Dr
+Waldron,Scott,Mercy Hospital Waldron,479-790-3863,1341 W 6th Street
+Paris,Logan,Mercy Hospital Paris,479-963-6101,500 E Academy St
+Pine Bluff,Jefferson,Jefferson Regional Urgent Care,870-541-8681,4201 South Mulberry
+Pine Bluff,Jefferson,Health Works / Jefferson Regional Medical Center Outpatien,870-536-6600,I-530 Medical Mall; 4747 Dusty Lake Drive
+Pine Bluff,Jefferson,Jefferson Regional Medical Center,870-541-7908,1600 West 40th Ave
+Little Rock,Pulaski,Remedy Drug,501-313-4480,8511 W. Markham
+Fort Smith,Sebastian,Laws Drug Store,479-452-6841,6802 Rogers Avenue
+Paragould,Greene,Prescriptions Corner Drug,870-239-9535,320 West Kingshighway
+Paragould,Greene,Arkansas Methodist Medical Center,870-239-7861,900 West Kingshighway
+NEWPORT,Jackson,DARLING PHARMACY,870-523-5888,1303 MCLAIN ST
+Wynne,Cross,CrossRidge Community Hospital,870-208-6012,310 S Falls Blvd
+Helena,Phillips,Hickory Hill Pharmacy,870-338-8351,109 Hickory Hill Drive
+Little Rock,Pulaski,Tanglewood Drugstore,501-664-4444,6815 Cantrell Road
+Malvern,Hot Spring,Community Care RX LLC,501-229-1446,1606 Martin Luther King BLVD
+CLARENDON,Monroe,"MID-DELTA HEALTH SYSTEMS, INC",870-747-3381,245 MADISON
+Morrilton,Conway,CHI St. Vincent Morrilton,501-977-2453,4 Hospital Drive
+Hot Springs,Garland,CHI St. Vincent Hot Springs,501-622-1076,300 Werner Street
+Sherwood,Pulaski,CHI St. Vincent North,501-552-7324,2515 Wildwood Ave
+Little Rock,Pulaski,CHI St. Vincent Infirmary,501-552-4888,2 St Vincent Circle
+Gravette,Benton,Teasley Drug,479-787-5966,205 Atlanta SE
+McGehee,Desha,McGehee Hospital,870-222-5600,900 South Third Street
+Little Rock,Pulaski,Drug Emporium Pharmacy 240,501-223-2262,9112 Rodney Parham Road
+Wynne,Cross,Wynne Medical Pharmacy,870-238-8531,718 South Falls Blvd
+ROGERS,Benton,ALLCARE PHARMACY - ROGERS,479-621-0400,216 SOUTH 13TH STREET
+JONESBORO,Craighead,ALLCARE PHARMACY - JONESBORO,870-245-0207,1903 GRANT AVE
+FORT SMITH,Sebastian,ALLCARE PHARMACY - FORT SMITH,877-420-9400,3409 WHEELER AVENUE
+LITTLE ROCK,Pulaski,ALLCARE PHARMACY - LITTLE ROCK,877-420-9400,10620 COLONEL GLENN ROAD
+ARKADELPHIA,Clark,ALLCARE PHARMACY - ARKADELPHIA,877-420-9400,521 MAIN STREET
+El Dorado,Union,Medical Center of South Arkansas,870-863-2000,700 West Grove Street
+Dumas,Desha,Dumas Family Pharmacy,870-382-0500,301 Hwy 65 South
+Camden,Ouachita,"Dani Cothern, MD Obstetrics & Gynecology",870-836-5738,476 Hospital Drive
+Camden,Ouachita,Doctor's Home Care,870-836-1287,726 California AVE SW
+Camden,Ouachita,Family Clinic of Ouachita County,870-837-2530,415 Hospital Drive
+Stephens,Ouachita,Stephens Community Clinic,870-786-9114,113 Ruby Street
+Camden,Ouachita,Express Care Clinic,870-836-5013,415 Hospital Drive
+Camden,Ouachita,Ouachita County Medical Center,870-836-1296,638 California AVE SW
+North Little Rock,Pulaski,Arkansas Pediatric Clinic Maumelle,501-664-4117,11749 Maumelle Blvd
+LITTLE ROCK,Pulaski,ARKANSAS PEDIATRIC CLINIC,501-664-4117,16115 ST VINCENT WAY
+Little Rock,Pulaski,Kavanaugh Pharmacy,501-644-3844,5008 Kavanaugh Blvd.
+Hardy,Sharp,Davis Drug Store,870-856-3080,1243 Hwy 62/412
+Clinton,Van Buren,American Home Pharmacy,501-745-4266,129 Bone Street
+Little Rock,Pulaski,Arch Street Pharmacy,501-261-7181,11200 Arch Street
+Conway,Faulkner,Heartland Pharmacy Conway,501-450-0000,2235 Dave Ward Dr
+Cabot,Lonoke,heartland Pharmacy Cabot,501-941-4400,2006 S Pine
+Mountain Home,Baxter,Heartland Pharmacy Mountain Home,870-425-2221,200 E 7th St
+Little Rock,Pulaski,Heartland Pharmacy Markham,501-904-4299,11414 W Markham St
+Gentry,Benton,Heartland Pharmacy Gentry,479-525-6200,560 S Gentry Blvd
+Mansfield,Scott,Heartland Pharmacy Mansfield,479-269-6161,607 Hwy 71 East
+Springdale,Washington,Heartland Pharmacy Springdale,479-751-2072,701 S Thompson St
+Rogers,Benton,Heartland Pharmacy Rogers,479-631-0204,1735 W Walnut St
+Fayetteville,Washington,Heartland Pharmacy Fayetteville,479-444-7200,1450 E Zion Road
+Bryant,Saline,Cornerstone Pharmacy Bryant,501-481-8964,2203 N Reynolds Road
+Little Rock,Pulaski,Cornerstone Pharmacy Rodney Parham,501-223-2224,4220 N Rodney Parham Road
+Van Buren,Crawford,Arkansas Occupational Health Center- Van Buren,479-262-2724,2010 Chestnut Street
+Russellville,Pope,Arkansas Occupational Health Center-Russellville,479-219-5190,821 West 2nd Court
+Springdale,Benton,Arkansas Occupational Health Center- Springdale,479-725-3000,4001 Wagon Wheel Rd
+De Queen,Sevier,Leopard Care Clinic,870-642-5488,167 School Drive
+De Queen,Sevier,Randy D Walker MD PLLC,870-584-3000,1553 West Collin Raye Drive
+Malvern,Hot Spring,Higginbotham Family Clinic,501-337-9994,"1002 Schneider Dr., Ste 1004"
+Pocahontas,Randolph,Futrell Pharmacy Inc,870-892-5615,115 East Broadway Street
+Mammoth Spring,Fulton,Palace Drug,870-625-3222,270 Main Street
+Fort Smith,Sebastian,Johnson Dermatology,479-649-3376,5921 Riley Park
+Little Rock,Pulaski,Little Rock Family Practice Central,501-664-4810,701 North University
+Little Rock,Pulaski,Little Rock Family Practice West,501-228-7200,4208 North Rodney Parham
+Rogers,Benton,"Brian T. Hyatt, MD, PLLC d/b/a Pinnacle Premier Psychiatry",479-366-0850,3300 S. Market St.
+Rogers,Benton,"Woodland Research, NW",479-927-3000,609 W. Dyke Road
+Forrest City,St. Francis,Dr Kumars medical clinic,870-633-5016,2801 lindauer road
+Little Rock,Pulaski,Health and Wellness of AR,501-779-8554,8114 Cantrell Rd
+Rogers,Benton,Northwest Arkansas Family Medicine and Obstetrics,479-282-2737,5302 W Village Pkwy
+Blytheville,Mississippi,Adult Medicine Clinic of Blytheville,870-762-5800,519 North 6th Street
+Pocahontas,Randolph,"Pocahontas Medical Clinic, PA",870-892-4467,2901 Medical Center Drive
+Marion,Crittenden,Mitchell Family Medicine,870-739-8670,924 State Hwy 77
+Little Rock,Pulaski,West Little Rock Women's Center,501-907-6699,12921 Cantrell Rd
+Mountain Home,Baxter,"North Central Arkansas Medical Associates, PA",870-425-3131,614 North Town
+Mena,Polk,First Care Family Medicine - Mena PLLC,479-394-1500,1706 Hwy 71 North
+Lonoke,Lonoke,Lyons Drug Store,501-676-2247,115 West Front St.
+Rogers,Benton,Direct Care Clinic of Northwest Arkansas,479-268-4504,2104 S. 54th St
+Conway,Faulkner,Freeman Family Medicine,501-327-0110,600 Club Lane
+El Dorado,Union,"South Arkansas Womens Clinic, PLC",870-863-8444,706 W Grove St
+Glenwood,Pike,Glenwood Family Medicine,870-356-4801,248 Hwy 70 East
+Hot Springs,Garland,Hamilton West Family Medicine,501-767-0075,1629 Airport Road
+Malvern,Hot Spring,First Care Malvern School-Based Community Clinic,501-332-7525,1517 South Main Street
+Hot Springs,Garland,FirstCare Walk-in Clinic,501-651-4500,120 Adcock Road
+Hot Springs,Garland,Lakeside Family Medicine,501-624-0070,124 Hollywood Avenue
+Hot Springs,Garland,Lake Hamilton Family Medicine,501-651-4300,1661 Airport Road
+Hot Springs,Garland,Fountain Lake Family Medicine,501-623-7900,4517 Park Avenue
+Hot Springs,Garland,West Gate Family Medicine,501-767-1144,2266 Albert Pike Road
+Arkadelphia,Clark,Bray Family Medicine,870-464-1515,303 Professional Park Drive
+Fort Smith,Sebastian,Advanced Interventional Pain & Diagnostics,479-651-6211,7303 Rogers Ave
+LITTLE ROCK,Pulaski,CORNERSTONE PHARMACY OTTER CREEK,501-455-1900,10320 STAGECOACH RD
+West Memphis,Arkansas,Hashmi Medical Associates PLLC,870-394-9149,710 N Missouri St
+Jonesboro,Craighead,Jonesboro Internal Medicine Clinic,870-932-2221,3202 Methodist Drive
+Pine Bluff,Jefferson,"James A. Campbell, Jr MD & Associates PC",870-535-7070,1706 W 42nd Avenue
+Mountain View,Stone,Stone County Medical Center,870-262-5005,2106 East Main St
+Batesville,Independence,White River Medical Center,870-262-1273,1710 Harrison St
+Harrison,Boone,NARMC Family Doctor's Clinic,870-741-8286,520 N Spring St
+Harrison,Boone,NARMC Medicine Group,870-365-0850,724 N Spring St
+Jasper,Newton,Newton County Family Practice,870-446-2203,502 W Court St
+Harrison,Boone,NARMC Internal Medicine,870-743-2448,724 N Spring St
+Marshall,Searcy,Marshall Family Practice,870-448-3327,211 Airport Rd
+Lead Hill,Boone,Claude Parrish Community Health Center,870-436-5271,131 E  AR 14
+Harrison,Boone,NARMC MEDI-QUICK PHARMACY,870-741-2500,724 N Spring St
+Lead Hill,Boone,CLAUDE PARRISH COMMUNITY HEALTH CLINIC,870-436-5271,131 AR 14
+Jasper,Newton,NEWTON COUNTY FAMILY PRACTICE,870-446-2203,502 W Court St
+Harrison,Boone,North Arkansas Regional Medical Center,870-414-4017,620 N Main Street
+Hope,Hempstead,Premier Central Inc,870-777-6002,900 S Main St
+Conway,Faulkner,Central Arkansas Pediatrics,501-328-0055,3010 Fountain Drive
+Salem,Fulton,Palace Drug of Salem,870-895-3811,106 Hwy 62 W
+Fayetteville,Washington,HIGHLANDS ONCOLOGY GROUP- FAYETTEVILLE,479-587-1700,3232 N. North Hills Blvd.
+Springdale,Benton,"Highlands Oncology Group, PA",479-587-1700,808 S 52nd Street
+Springdale,Washington,"Highlands Oncology Group, PA",479-587-1700,3901 Parkway Circle
+Palestine,St. Francis,Palestine Family Pharmacy,870-970-0200,411 Main Street
+LITTLE ROCK,Pulaski,ANIL K BADHWAR M.D PA,501-455-7003,11321 I-30
+De Queen,Sevier,Lofton Family Clinic,870-642-4000,203 W De Queen Ave
+Beebe,White,Burrow's Drug,501-882-5425,45 Highway 64 West
+Little Rock,Pulaski,Park West Pharmacy,501-224-3499,904 Autumn Road
+Cherokee Village,Sharp,Econo-Med Pharmacy,870-856-4696,1 Choctaw Ctr
+BELLA VISTA,Benton,CORNERSTONE PHARMACY OF BELLA VISTA,479-876-6200,1 MERCY WAY
+Little Rock,Pulaski,Arkansas Fertility & Gynecology,501-801-1200,9101 Kanis Road
+Salem,Arkansas,"Paul David Kauffman, MD (SALEM FAMILY CLINIC)",870-895-2541,507 North Main St
+CONWAY,Faulkner,TILLEY FAMILY MEDICINE,501-327-1150,495 HOGAN LANE
+North Little Rock,Pulaski,Oak Grove Pharmacy,501-851-3636,11114 MacArthur Drive
+Sheridan,Grant,McCoy Tygart Drug,870-942-5121,821 N Rock St
+Little Rock,Pulaski,"Cornerstone Pharmacy Main, LLC",501-246-5451,1701 Main Street
+Helena,Phillips,Cypert Ridge Family Practice,870-338-8312,812 B Newman Drive
+Sheridan,Grant,Sheridan Family Pharmacy,870-484-4488,677 Heritage Dr
+Glenwood,Pike,Buck's Pharmacy,870-356-2288,408 N 1st Street
+El Dorado,Union,SAMA Healthcare Services,870-862-2400,600 S Timberlane
+Bentonville,Benton,Premier Dermatology,479-273-3376,901 SE Plaza
+Mountain View,Stone,Best Drug Store,870-269-4329,100 Case Commons Dr
+Little Rock,Pulaski,Arkansas Diagnostic Center,501-227-7688,8908 Kanis Road
+conway,Faulkner,conway medcare pharmacy,501-358-3498,2521 college ave
+monticello,Drew,The Prescription Pad Pharmacy,870-367-4227,539 highway 425 south
+Camden,Ouachita,NEAT RX Inc. dba Camden Drug,870-836-9303,1005 W Washington
+Conway,Faulkner,Arkansas Pediatrics of Conway,501-329-1800,2710 College Ave.
+Malvern,Hot Spring,Haskell Family Medical Clinic,501-337-5678,1003 Schneider Drive
+Malvern,Hot Spring,Tilley Diagnostic Clinic,501-337-5678,1003 Schneider Drive
+McGehee,Desha,Sav-Mart Pharmacy,870-222-6676,1007 Hwy 65 S
+Little Rock,Pulaski,Arkansas Urology,501-219-8900,1300 Centerview Drive
+Monticello,Drew,City Drug,870-367-5301,201 East Gaines
+Warren,Bradley,Gannaway Drug Store,870-226-3751,101 N Main
+Morrilton,Conway,Health-Care Pharmacy,501-354-1460,10 Hospital Drive
+Batesville,Independence,Bryant's Pharmacy & Health Care Center,870-793-3999,2000 Harrison St
+Forrest City,St. Francis,Forrest City Family Pharmacy,870-581-9029,2307 N Washington
+Conway,Arkansas,"Bowlin-Cummins, PA, DBA Banister-Lieblong Clinic",501-329-3824,2425 Dave Ward Drive
+Jonesboro,Craighead,The Childrens Clinic- Jonesboro,879-935-6012,800 S Church St
+North Little Rock,Pulaski,"Arkansas Gastroenterology, PA",501-945-3343,3401 Springhill Dr
+Newport,Jackson,Unity Health Newport Family Medical Clinic,870-523-1022,1200 McLain St
+Newport,Jackson,Unity Health Harris Family Practice,870-495-1349,1200 McLain
+Newport,Jackson,Unity Health Green Family Practice,870-523-0193,1200 McLain St
+Newport,Jackson,Unity Health Newport Primary Care Clinic,870-523-2320,"1200 McLain St, Ste B"
+Newport,Jackson,Unity Health Harris OB/GYN Clinic,870-523-3289,1201 McLain Street
+Newport,Jackson,Unity Health Harris Medical Center,870-523-8911,1205 McLain Street
+Beebe,White,Unity Health McAfee Medical Clinic,501-882-5433,710A DeWitt Henry Drive
+Bradford,White,Unity Health Bradford Medical Clinic,501-344-8800,504 W Main Street
+Searcy,White,Unity Health Westside Family Medical Clinic,501-268-3733,103 Woodlane Drive
+Searcy,White,Unity Health Family Practice Associates,501-268-3232,"3130 E Race, Ste 100"
+Clinton,Van Buren,Unity Health Red River Family Medicine,501-745-3033,175 Volunteers Parkway
+Cabot,Lonoke,Unity Health North Cabot Family Medicine,501-843-5757,1911 N. 2nd Street
+Cabot,Lonoke,Unity Health Medical Clinic of Cabot,501-941-3345,2251 Bill Foster Memorial Highway
+Searcy,White,Unity Health Searcy Medical Center West,501-278-2800,2505 West Beebe Capps Expressway
+Searcy,White,Unity Health Searcy Medical Center,501-278-2800,2900 Hawkins Drive
+Searcy,White,Unity Health White County Medical Center,501-380-1380,3214 East Race Ave
+Mount ida,Montgomery,Mt Ida Pharmacy,870-867-3174,74; hwy 270 east
+Hot Springs,Garland,National Park Medical Center,501-620-1401,1910 Malvern Ave
+Little Rock,Pulaski,Little Rock Allergy & Asthma Clinic,501-978-7158,18 Corporate Hill Drive
+Conway,Faulkner,Sav-On Drugs of AR,501-327-6777,1014 Harkrider St
+Star City,Lincoln,Doctor's Orders Pharmacy 3 Star City,870-628-4004,500 S Lincoln
+White Hall,Jefferson,Doctor's Orders Pharmacy 1 White Hall,870-850-8010,7240 Sheridan Road
+Pine Bluff,Jefferson,Doctor's Orders Pharmacy 2 Pine Bluff,870-671-4914,2302 W 28th Avenue
+White Hall,Jefferson,White Hall Family Medicine,870-247-9499,1400 Claud Road
+Walnut Ridge,Lawrence,Economed of Walnut Ridge,870-886-5200,1045 W Main
+Fort Smith,Sebastian,Prince Drug Store Inc,479-782-9210,1112 Towson Ave
+Clarksville,Johnson,Clarksville Family Pharmacy,479-647-3138,510 S. Rogers St.
+North Little Rock,Pulaski,North Little Rock Women's Clinic,501-835-9444,3401 Springhill Drive
+Crossett,Ashley,Monticello Medical Clinic - Crossett,870-364-0000,201 Fairview
+Star City,Lincoln,Monticello Medical Clinic - Star City,870-628-1388,1306 N. Lincoln Ave.
+Monticello,Drew,Monticello Medical Clinic,870-367-6867,906 Roberts Dr.
+Monticello,Arkansas,Monticello Medical Clinic 2,870-460-4766,733 Roberts Dr.
+Pine Bluff,Jefferson,Simmie Armstrong Jr. MD DBA Pine Bluff Medical Center,870-535-6461,1400 West 43rd Avenue
+White Hall,Jefferson,"Mark Ramiro, MD PA",870-247-9499,1400 Claud Road
+Benton,Saline,Saline Memorial Hospital,501-776-6165,#1 Medical Park Drive
+Mayflower,Faulkner,Roland Drug Store #2,501-470-9627,600 State Hwy 365
+Little Rock,Pulaski,Fouir Seasons Allergy and Asthma,501-221-1956,11614 Huron Lane
+Conway,Faulkner,"Conway OB-GYN Clinic, PA",501-327-6547,2180 Ada Avenue
+Newport,Jackson,iCareRx Pharmacy,870-523-5555,1117 McLain St
+Crossett,Ashley,Gammel's Clinic Pharmacy,870-364-5100,909 Unity Rd
+Decatur,Benton,Decatur Medi Clinic,479-752-3233,346 N Main Street
+Russellville,Pope,Cobb's Westside Pharmacy,479-968-7180,108 Skyline Drive
+Glenwood,Pike,Woodard Family Pharmacy,870-356-2193,210 E Broadway
+Elkins,Washington,Harps Pharmacy #115,479-643-2319,1951 N. Center Street
+Cabot,Lonoke,Harps Pharmacy #114,501-843-3374,801 North 2nd Street
+Siloam Springs,Benton,Harps Pharmacy #113,479-549-3200,201 Hwy 412 West
+Greenbrier,Faulkner,Harps Pharmacy #111,501-679-0470,15 N Broadview Street
+Green Forest,Carroll,Harps Pharmacy #103,870-438-5614,705 W. Main Street
+Waldron,Scott,Harps Pharmacy #180,479-637-1007,1350 West 6th Street
+Van Buren,Crawford,Price Cutter Pharmacy #352,479-471-0800,120 Cloverleaf Plaza
+Springdale,Washington,Harps Pharmacy #119,479-751-0882,2894 West Sunset
+Morrilton,Conway,Harps Pharmacy #308,501-477-5048,100 S. St. Joseph Street
+Hot Springs,Garland,Harps Pharmacy #391,501-760-1283,146 Thornton Ferry Road
+Brookland,Craighead,"Barkley Enterprises, Inc. dba The Pharmacy at Brookland",870-206-9920,406 Honeysuckle Lane
+Mountain Home,Baxter,Baxter Regional,870-508-7450,628 Hospital Drive
+Conway,Faulkner,Harps Pharmacy #144,501-329-3733,1120 East German Lane
+Mountain Home,Baxter,Baxter Regional Medical Center,870-508-1370,624 Hospital Dr
+HEBER SPRINGS,Cleburne,FAMILY DISCO PHARMACY,501-362-5853,120 SOUTH 4TH STREET
+Corning,Clay,Goodman Drug Company,870-857-0551,1109 West Main
+Little Rock,Pulaski,Arkansas Allergy & Asthma Clinic,501-227-5210,5 Executive Center Court
+Helena,Phillips,Helena Family Health Center,870-817-0122,513 Porter Street
+Trumann,Poinsett,Trumann Family Health Center,870-483-1025,417 West Main Street
+Blytheville,Mississippi,Healthy Partners,870-532-6001,605 North 2nd Street
+West Memphis,Crittenden,East Arkansas Family Health Center,870-735-3842,900 N. 7th Street
+paragould,Greene,Family Practice clinic of Paragould,870-239-4076,1015 west kingshighway
+PIGGOTT,Clay,MCKENNEY PHARMACY,870-324-5310,264 N. 3RD AVE
+Fayetteville,Washington,"Hedberg Allergy and Asthma Center, PA",479-464-8887,1585 E Rainforest Road
+Rogers,Benton,"Hedberg Allergy and Asthma Center, PA",479-464-8887,700 S 52nd St
+STUTTGART,Arkansas,COKER-HAMPTON DRUG CO,870-673-2691,218 S MAIN
+Morrilton,Conway,Morrilton Medical Clinic,501-354-0052,10 Hospital Dr
+Fort Smith,Sebastian,MediSav Pharmacy #3,479-646-2971,5701 Jenny Lind Rd
+Charleston,Sebastian,Medisav Pharmacy #1,479-965-2244,621 E Main St
+Little Rock,Pulaski,CARTI,501-906-3010,8901 CARTI Way
+Fort Smith,Arkansas,MediSav Pharmacy #2,479-452-0278,8820 Rogers Ave
+DE QUEEN,Sevier,GONZALEZ PEDIATRICS,870-642-8640,821 WALTER J. LEEPER DRIVE
+Little Rock,Pulaski,Little Rock Family Planning,501-225-3836,4 office park drive
+Siloam Springs,Benton,Simmons Care Clinic - Van Buren,479-238-1222,1700-1 E Quarter Road
+Siloam Springs,Benton,Simmons Care Clinic - Siloam Springs,479-238-1222,1700-1 E Quarter Road
+Benton,Saline,Family Practice Associates,501-778-0934,1304 Military Rd
+Russellville,Pope,Newton's Pharmacy,479-968-1157,715 W Main St
+Trumann,Poinsett,The Daily Dose Pharmacy,870-709-0566,421 Hwy 463 N
+Benton,Saline,Saline Heart Group,501-315-4008,1000 Hwy 35N
+LITTLE ROCK,Pulaski,LITTLE ROCK PULMONARY CLINIC,501-224-0110,9601 BAPTIST HEALTH DR
+Fort Smith,Sebastian,National Family Pharmacy,479-783-6135,1615 Dodson
+Searcy,White,Harps Pharmacy #136,501-268-4171,2525 W Beebe-Capps Expressway
+Mountain Home,Baxter,Harps Pharmacy #135,870-425-4127,924 Eastba Hwy 62
+Huntsville,Madison,Harps Pharmacy #133,479-738-2202,115 Lee Street
+Bentonville,Benton,Harps Pharmacy #127,479-273-5541,1209 N Walton Blvd
+West Fprl,Washington,Harps Pharmacy #126,479-839-4365,266 Three Dog Lane
+Fayetteville,Washington,Harps Pharmacy #124,479-251-9130,1274 Colorado Drive
+Springdale,Washington,Harps Pharmacy #123,479-361-1950,1007 Jones Road
+Rogers,Benton,Harps Pharmacy #117,479-631-7014,715 North 2nd Street
+Stamps,Lafayette,Peoples Drug and Gifts,870-533-4311,237 main st
+hazen,Prairie,J and B kelly inc (Prescription Shop),870-255-4403,202 south livermore
+Little Rock,Pulaski,KROGER PHARMACY 02500622,501-225-6006,14000 CANTRELL
+Hot Springs,Garland,KROGER PHARMACY 02500621,501-525-7296,4407 CENTRAL S STATE HWY 7
+Hot Springs,Garland,KROGER PHARMACY 02500619,501-623-2650,215 AIRPORT RD
+Little Rock,Pulaski,KROGER PHARMACY 02500623,501-217-7920,16105 B CHENAL PKWY
+Jacksonville,Pulaski,KROGER PHARMACY 02500614,501-985-0822,103 GREGORY PL
+Cabot,Lonoke,KROGER PHARMACY 02500613,501-628-5187,1295 W MAIN ST
+Maumelle,Pulaski,KROGER PHARMACY 02500606,501-210-7671,110 COMMONS DR
+Hot Springs,Garland,KROGER PHARMACY 02500590,501-624-5542,3341 CENTRAL AVE
+Little Rock,Pulaski,KROGER PHARMACY 02500582,501-221-8301,10300 N RODNEY PARHAM RD
+Little Rock,Pulaski,Kroger Pharmacy 02500550,501-375-5645,1100 E ROOSEVELT
+England,Lonoke,KROGER PHARMACY 02500576,501-842-3471,301 PINE BLUFF HWY
+West Memphis,Crittenden,KROGER PHARMACY 02500469,870-732-0283,300 I-40 SERVICE RD
+Jonesboro,Craighead,KROGER PHARMACY 02500409,870-972-4739,1725 CARAWAY RD
+Batesville,Independence,KROGER PHARMACY 02500687,870-793-3000,303 S ST LOUIS ST
+Conway,Faulkner,KROGER PHARMACY 02500652,501-329-0795,101 W OAK ST
+Little Rock,Pulaski,KROGER PHARMACY 02500644,501-663-3257,1900 N POLK
+North Little Rock,Pulaski,KROGER PHARMACY 02500642,501-835-6530,6929 JFK BLVD
+North Little Rock,Pulaski,KROGER PHARMACY 02500639,501-758-9307,2509 MCCAIN BLVD
+Blytheville,Mississippi,KROGER PHARMACY 02500465,870-763-7951,400 W MOULTRIE
+Benton,Saline,KROGER PHARMACY 02500637,501-315-3434,1410 MILITARY RD
+NORTH LITTLE ROCK,Pulaski,KROGER PHARMACY 02500638,501-758-6360,4401 CAMP ROBINSON RD
+Little Rock,Pulaski,KROGER PHARMACY 02500636,501-666-7997,614 N BEECHWOOD
+Little Rock,Pulaski,KROGER PHARMACY 02500632,501-565-0188,6420  COLONEL GLENN
+Little Rock,Pulaski,KROGER PHARMACY 02500630,501-227-8200,8415 W MARKHAM ST
+Benton,Saline,KROGER PHARMACY 02500629,501-574-3884,20820 I-30 NORTH
+Little Rock,Pulaski,KROGER PHARMACY 02500627,501-565-7584,8824 GEYER SPRINGS RD
+Conway,Faulkner,KROGER PHARMACY 02500625,501-329-3981,855 SALEM RD
+Russellville,Pope,KROGER PHARMACY 02500624,479-890-3402,1003 WEST MAIN STREET
+Batesville,Independence,"Wilson Wil-Sav Pharmacy, Inc.",870-251-2432,5 Allen Chapel Road
+Vilonia,Faulkner,Harps Pharmacy #229,501-796-0150,1086 Main Street
+Mountain Home,Baxter,Harps Pharmacy #156,870-508-0054,2089 Hwy 62 West
+Springdale,Washington,Harps Pharmacy #170,479-927-3379,1945 Butterfield Coach Road
+Fort Smith,Sebastian,Harps Pharmacy #174,479-452-0993,3401 S 74th
+Harrison,Boone,Harps Pharmacy #202,870-365-0586,5015 Highway 62 East
+Yellville,Marion,Harps Pharmacy #189,870-449-3654,200 N Wickersham Street
+Heber Springs,Cleburne,Harps Pharmacy #163,501-206-0146,901 West Main Street
+Lincoln,Washington,Harps Pharmacy #179,479-824-3256,310 W. Pridemore Drive
+Fayetteville,Washington,Harps Pharmacy #176,479-444-7967,1189 N Garland
+Hot Springs,Garland,Harps Pharmacy #394,501-520-0026,5536 Central Ave
+Rogers,Benton,Price Cutter Pharmacy #357,479-531-0210,103 N. Dixieland Road
+Lowell,Benton,Harps Pharmacy #228,479-751-3764,916 West Monroe Ave
+Fayetteville,Washington,Harps Pharmacy #177,479-571-1214,1780 N. Crossover Road
+Fort Smith,Sebastian,Harps Pharmacy #137,479-646-5505,2507 Market Trace
+Sherwood,Pulaski,Brian's Pharmacy,501-392-6412,4201 E. Kiehl Ave.
+Little Rock,Pulaski,Arkansas Diabetes and Endocrinology Center,501-666-3666,11400 Huron Ln
+conway,Faulkner,PrimeCare Medical Clinic- Salem Road,501-764-1800,605 salem rd
+Conway,Faulkner,PrimeCare Medical Clinic,501-327-7100,812 Oak st
+Russellville,Pope,Millard Henry Clinic,479-968-2345,101 Skyline Drive
+Jonesboro,Craighead,Family Physicians of Jonesboro,870-932-2499,1670 Hil Park Cove
+Fort Smith,Sebastian,Andersons Discount Pharmacy,479-782-2881,700 Lexington Ave
+Newport,Jackson,"Bryant, Holifield and Davis Pharmacy dba Norman & Baker Ph",870-523-9472,2200 Malcolm Avenue
+Mountain Home,Baxter,Medi-Save Pharmacy,870-424-4010,116 Hwy. 201 N.
+Warren,Bradley,Bradley County Medical Center,870-226-3731,404 South Bradley
+Hensley,Saline,East End Express Pharmacy,501-486-4100,21019 Hwy 167 Suite 100
+Little Rock,Saline,East End Pharmacy,501-888-2830,20381 Arch Street
+Mena,Polk,Mena  Regional Health System,479-243-2225,311 North Morrow Street
+Magnolia,Columbia,James W. Chambliss MD PLLC PA,870-234-3802,1701 E. North St.
+Magnolia,Columbia,"Ked L. Davis, MD PLLC PA",870-234-3802,1701 E. North St.
+Redfield,Jefferson,Redfield Pharmacy,501-397-5400,1017 Sheridan Rd.
+Mena,Polk,"Healthy Connections, Inc -Health Park Drive",479-437-3449,136 Health Park Drive
+Little Rock,Pulaski,"Healthy Connections, Inc - Franklin",501-414-0123,1701 South Harrison Street
+DeQueen,Sevier,"Healthy Connections, Inc - De Queen",870-642-4364,1206 W Collin Raye Dr
+Arkadelphia,Clark,"Healthy Connections, Inc - Arkadelphia",870-403-0299,301 Professional Park Dr
+Hot Springs,Garland,"Healthy Connections, Inc.- Central",501-463-4074,3604 Central Avenue
+Little Rock,Pulaski,"Healthy Connections, Inc- Midtown Health for Life",501-603-0003,1100 N. University Ave
+Mount Ida,Montgomery,"Healthy Connections, Inc - Mount Ida",870-867-4244,534 Luzerne St
+BEARDEN,Ouachita,Bearden Pharmacy,870-687-3814,26 NW 1ST ST.
+Mountain Home,Baxter,"Ear, Nose and Throat Associate of Mountain Home, P.A.",870-424-4200,626 Burnett Drive
+STUTTGART,Arkansas,PROFESSIONAL PHARMACY,870-673-1741,1515 N MEDICAL DRIVE
+Mena,Polk,"Mountain View Clinic I, LLC",479-394-7301,1102 Crestwood Circle
+West Memphis,Crittenden,Bio Medical Application of Arkansas dba FKC East Arkansas,870-735-5445,310 South Rhodes St
+Maumelle,Pulaski,The Medicine Shoppe #1883,501-851-4949,1701 Club Manor Drive
+Benton,Saline,Harrison Family Pharmacy,501-794-6338,2323 Highway 229
+Blytheville,Mississippi,Bio Medical Applications of Arkansas BMA Blytheville,870-762-7700,1001 E. Moultree
+Little Rock,Pulaski,Landmark Pharmacy,501-888-2223,3401 Atwood Road
+Conway,Faulkner,The Medicine Shoppe #1906,501-327-8088,2125 College Ave
+Jacksonville,Pulaski,Jacksonville Medical Care,501-985-5900,1300 Braden Street
+Cabot,Lonoke,dba Cabot Medical Care,501-843-4555,2037 West Main Street
+Conway,Faulkner,Student Health Clinic,501-450-3136,201 Donaghey Ave
+Lake Village,Chicot,Hunter's Pharmacy,870-265-2220,401 Main Street
+Dermott,Chicot,Delta Drug of Dermott,870-538-5233,111 E Peddicord St
+Harrison,Boone,SULLIVAN MAIN STREET PHARMACY,870-741-2119,731 N.Main
+Searcy,White,Searcy Children's Clinic,501-279-1472,1407 East Race Ave.
+Springdale,Washington,Mercy Clinic Northwest Arkansas,479-751-8440,4600 Mercy Ln.
+Lowell,Benton,Mercy Clinic Northwest Arkansas,479-770-0700,325 S. 6th Place
+Rogers,Benton,Mercy Clinic Northwest Arkansas,479-338-3750,1002 S. 52nd. St.
+Bentonville,Benton,Mercy Clinic Northwest Arkansas,479-986-6090,3101 S.E. 14th St.
+Pea Ridge,Benton,Mercy Clinic Northwest Arkansas,479-488-6415,200 Carr St.
+Bella Vista,Benton,Mercy Clinic Northwest Arkansas,479-986-6090,One Mercy Way
+rogers,Benton,Mercy Clinic Northwest Arkansas,479-878-1060,613 N. 2nd. St.
+Rogers,Benton,Mercy Clinic Northwest Arkansas,479-338-5555,2708  Rife Medical Ln.
+Bentonville,Benton,Mercy Clinic Northwest Arkansas,479-273-9056,1000 S.E. 13th Ct.
+Lowell,Benton,Mercy Clinic Northwest Arkansas,479-636-9234,325 S. 6th. Place
+Bentonville,Benton,Mercy Clinic Pediatrics 102,479-636-9234,3101 S. E. 14th. St.
+Bentonville,Benton,Mercy Clinic Northwest,479-268-7640,4100 SW I. St.
+Bentonville,Benton,Mercy Clinic Northwest Arkansas,479-273-1550,2900 Moberly Ln.
+Berryville,Carroll,Mercy Clinic Northwest Arkansas,870-423-6661,207 Carter St.
+Bentonville,Benton,Mercy Clinic Northwest Arkansas,479-319-5355,1401 N. Walton Blvd.
+Centerton,Benton,Mercy Clinic Northwest Arkansas,479-795-1301,1225E. Centerton Blvd.
+Bentonville,Benton,Mercy Clinic Northwest Arkansas,479-636-9234,4100 S.W. I. St
+Rogers,Benton,Mercy Clinic Northwest Arkansas,479-338-4000,3333 Pinnacle Hills Pkwy
+Trumann,Poinsett,Express Rx of Trumann,870-483-6325,329 Highway 463 North
+Prescott,Nevada,Express Rx of Prescott,870-887-6664,1430 West 1st Street
+Paris,Logan,Express Rx of Paris,479-963-6400,508 East Walnut Street
+Pine Bluff,Jefferson,Express Rx of Pine Bluff,870-850-0159,3006 West 28th Avenue
+Heber Springs,Cleburne,Express Rx of Heber Springs,501-302-6010,600 West Main Street
+Hot Springs,Garland,Express Rx at National Park (Hot Springs),501-623-2222,105 Sawtooth Oak Street
+Hope,Hempstead,Express Rx of Hope,870-777-4643,717 South Main Street
+Forrest City,Arkansas,Bio-Medical Forrest City,870-630-6484,210 Barrow Hill Road
+Portland,Ashley,Portland Drug,870-737-2813,105 Hwy 165 S
+Springdale,Washington,Regency Hospital of Northwest Arkansas,479-757-2600,609 West Maple Avenue 6th Fl
+MELBOURNE,Izard,MARK'S PHARMACY,870-368-5355,602 MAIN ST
+Conway,Faulkner,Conway Regional Medical Center,501-329-3831,2302 College Avenue
+Hampton,Calhoun,"CABUN Rural Health Services, Inc",870-798-4299,402 South Lee Street
+Strong,Union,Strong Clinic,870-797-7620,253 South Concord
+Amity,Clark,Amity Community Health Center,870-342-5606,210 Main Street
+Lewisville,Lafayette,Lewisville Family Practice Center,870-921-5781,1117 Chestnut St
+Hope,Hempstead,Hope Family Practice Center,870-777-8420,820 S Main
+Fort Smith,Sebastian,Select Specialty Hospital - Fort Smith,479-441-3980,1001 Towson Avenue
+Caraway,Craighead,Caraway Drug,870-956-0300,106 W state street
+Jacksonville,Pulaski,ARcare Jacksonville 111,501-241-1676,1400 Braden Street
+Swifton,Jackson,ARcare,870-485-2234,300 E Main Street
+Augusta,Woodruff,ARcare Pharmacy 05  Augusta,870-347-2620,601 Main St
+McCrory,Woodruff,ARcare McCrory 120,870-731-1100,908 Edmonds Ave
+Augusta,Woodruff,ARCARE,870-347-3402,800 Main
+Cotton Plant,Woodruff,ARcare Cotton Plant 29,870-459-3589,125 Oak Street
+Pangburn,White,ARcare Pharmacy 07 Pangburn,501-728-4500,304 Main St
+Parkin,Cross,ARcare Pharmacy 13 Parkin,870-755-2838,5787 Highway 64
+Brinkley,Monroe,ARcare Pharmacy 12 Brinkley,870-734-1100,615 N. Main St
+Hector,Pope,ARcare Hector,479-284-2127,11720  Sr. 27
+Cabot,Lonoke,ARcare Pharmacy Cabot,501-941-3116,105 N Jackson St
+Heber Springs,Cleburne,ARcare Heber Springs 85,501-362-9426,1511 Hwy 25B North
+Cherry Valley,Cross,ARcare Cherry Valley,870-442-2040,2624 Highway 42
+Lake City,Craighead,ARcare Lake City,870-237-9928,1009 Highway 18
+Jonesboro,Craighead,ARcare Jonesboro Midtown,870-333-5476,416 E Washington
+Jonesboro,Craighead,ARcare Jonesboro North,870-802-3586,1530 North Church St
+England,Lonoke,ARcare England,501-842-3131,227 Pine Bluff Hwy
+Newport,Jackson,ARcare Newport 45,870-523-2944,114 Ray Street
+Bentonville,Washington,ARcare Bentonville 33,479-271-7634,2805 Mid-Cities Dr
+McCrory,Woodruff,ARcare McCrory 50,870-731-5411,801 N Edmonds Ave
+Jonesboro,Craighead,ARcare Jonesboro South,870-336-1675,2816 Fox Meadow Labe
+Vilonia,Faulkner,ARcare Vilonia,501-796-6740,1127 Main St
+Wynne,Cross,ARcare Wynne,870-238-0377,601 E Julia
+Cabot,Lonoke,ARCARE 46 Cabot South,501-941-0940,5830 Hwy 5
+Batesville,Independence,ARcare Southside,870-569-4934,2450 Batesville Blvd
+Conway,Faulkner,ARcare Conway,501-932-9010,1500 Museum Road
+Searcy,White,ARcare Searcy 64,501-203-0857,305 Rogers Ave
+Little Rock,Pulaski,ARcare Little Rock,501-455-2712,11219 Financial Center Parkway
+Springdale,Washington,ARcare Pediatrics,479-759-1699,3057 Springdale Ave
+Searcy,White,ARcare Searcy,501-279-7979,406 Rodgers Drive
+Brinkley,Monroe,ARcare Brinkley,870-734-1150,615 N Main St
+Augsuta,Woodruff,ARcare Center for Education and Wellness/29,870-347-3400,800 Main St
+Carlisle,Lonoke,ARcare Carlisle,870-552-1258,821 E Park St Hwy 70
+Augusta,Woodruff,ARcare Augusta,870-347-2508,400 Highway 64 E
+Little Rock,Pulaski,ARcare 138 Little Rock,501-261-6450,500 S. University
+Mountain Home,Baxter,ARcare 137 Mountain Home,870-970-7140,1301 Hwy 62 E
+Maumelle,Pulaski,ARcare Maumelle 32,501-803-9990,501 Millwood Circle Ste E
+Benton,Saline,ARcare Benton 121,501-860-7150,630 W South
+Mayflower,Faulkner,ARcare Mayflower 42,501-470-9780,8 N Railroad Ave
+Cabot,Lonoke,ARcare Cabot West 46,501-941-1376,5830 Highway 5
+North Little Rock,Pulaski,ARcare,501-916-9693,3901 McCain Park Drive
+Hazen,Prairie,ARcare Hazen 40,870-255-3696,705 Highway 63
+Cabot,Lonoke,ARCare Cabot East 93,501-941-3522,105 N Jackson
+Rose Bud,White,ARcare Rose Bud 131,501-556-4344,138 School Road
+Pea Ridge,Benton,ARcare Pea Ridge 135,479-451-0579,145 N Curtis Avenue
+Bald Knob,White,ARcare Bald Knob 16,501-724-6207,178 Highway 167 North
+Batesville,Independence,ARcare Batesville Harrison 48,870-307-0001,4100 Harrison Street
+Batesville,Independence,ARcare Batesville Midtown 28,870-569-4920,2000 Harrison Street
+Lonoke,Lonoke,ARcare Lonoke 47,507-676-0181,1310 N Center Street
+Kensett,White,ARcare Kensett 80,501-742-5697,606 Wilbur D Mills North
+Batesville,Independence,ARcare Batesville Vine 35,870-793-4600,1175 Vine Street
+Texarkana,Miller,ARcare Texarkana 51,870-216-1223,401 East Street
+Horseshoe Bend,Fulton,ARcare Horseshoe Bend 23,870-670-4861,805 3rd Street
+Melbourne,Izard,ARcare Melbourne 100,870-368-5030,54 Tate Springs Road
+Des Arc,Prairie,ARcare Des Arc 30,870-256-4178,405 Hwy 11 North
+Piggott,Clay,Piggott Pharmacy LLC d/b/a Piggott Pharmacy,870-598-3183,648 East Main Street
+Corning,Clay,Cate Pharmacy Inc.,870-857-1006,500 N. Missouri ave.
+Conway,Faulkner,Lawrence Family Medicine,501-327-6900,3650 College Ave
+Little Rock,Pulaski,"Healthcare Pharmacy, Inc",501-888-7514,3401 Atwood Road
+Mena,Polk,"Medi Shop Pharmacy, L.L.C.",479-394-3254,204 Hwy 71 South
+Rison,Cleveland,Rison Pharmacy,870-325-6262,300 Pine St.
+FORDYCE,Dallas,WATSON PHARMACY,870-352-2161,802 WEST 4TH ST
+Malvern,Hot Spring,Malvern Family Medical Clinic,501-337-1836,850 Henry Street
+Little Rock,Pulaski,360 Wellness dba The Shot Clinic,501-225-7468,10720 N Rodney Parham
+Fort Smith,Sebastian,Keystone Family Clinic,479-434-6140,9207 HWY 71 S
+Bee Branch,Van Buren,BMRHC Southside,501-654-2006,326 Southside Road
+Marshall,Searcy,BMRHC- SCSD,870-448-3455,950 Hwy 65 North
+Mountain Home,Baxter,BOSTON MOUNTAIN RURAL HEALTH CLINIC- MOUNTAIN HOME,870-701-0238,444 Hospital Drive
+Jasper,Newton,BMRHC- Jasper,870-446-2225,609 W Clark Street
+Center Ridge,Conway,BMRHC-Center Ridge,501-893-6197,1094 Catholic Point Road
+Green Forest,Carroll,BMRHC- Green Forest,870-438-6500,1103 West Main Street
+Yellville,Marion,BMRHC- Yellville,870-449-7000,358 E Valley Street
+Mountain View,Stone,BMRHC Mountain View,870-269-2995,322 Dogwood Hollow Road
+Huntsville,Madison,"Boston Mountain Rural Health Center, Inc.",479-738-5500,934 North Gaskill Street
+Harrison,Boone,"Boston Mountain Rural Health Center, Inc.",870-741-6373,1002 North Spring Street
+Clinton,Van Buren,"Boston Mountain Rural Health Center, Inc.",501-745-7888,465 Medical Center Parkway
+Marshall,Searcy,"Boston Mountain Rural Health Center, Inc.",870-448-5733,2263 Hwy 65 North
+Eureka Springs,Carroll,ECHO Clinic,479-253-5547,4004 E. Van Buren
+CROSSETT,Ashley,ASHLEY WOMEN SERVICES,870-364-3800,1003 FRED LAGRONE DRIVE
+CROSSETT,Ashley,FAMILY CLINIC OF ASHLEY COUNTY,870-364-9111,909 UNITY ROAD
+CROSSETT,Ashley,ASHLEY HEALTH SERVICES,870-364-3474,1003 FRED LAGRONE DRIVE
+HAMBURG,Ashley,HAMBURG HEALTH CLINIC,870-853-8271,319 WEST PARKER
+CROSSETT,Ashley,ASHLEY FAMILY CLINIC,870-364-0590,124 RAY LOCHALA ROAD
+CROSSETT,Ashley,ASHLEY COUNTY MEDICAL CENTER,870-364-1248,1015 UNITY ROAD
+Fayetteville,Washington,"Advanced Health & Wellness, LLC",479-595-8676,3729 N Crossover Road
+Benton,Saline,Finley Pharmacy,501-315-5100,1016 W. South St
+Benton,Saline,Saline Internal Medicine Associates,501-778-5740,5 Medical Park Drive
+Benton,Saline,Central Arkansas Family Practice,501-574-7973,5 Medical Park Drive Suite 308
+Bryant,Saline,Bryant Medical Clinic,501-653-0353,3412B Market Place Ave.
+Magnolia,Columbia,Wilson Bearden Pharmacy,870-234-1062,134 N Washington
+Mena,Polk,Freedom Pharmacy,479-437-3089,710 4th Street
+De Queen,Sevier,De Queen Health and Wellness Pharmacy,870-642-2400,1357 W Collin Raye Drive
+Batesville,Independence,Sav-On Pharmacy,870-793-4770,1610 Harrison St
+Rector,Clay,"Rector Downtown Drug, Inc. d/b/a Rector Downtown Drug",870-595-3523,403 South Main Street
+England,Lonoke,Polk Pharmacy-England,501-842-2575,104 Stuttgart Highway
+Rogers,Benton,Apex Family Medical Clinic,479-657-6600,5206 W. Village Pkwy
+Clarendon,Monroe,Polk Pharmacy Clarendon,870-747-3304,333 Madison St
+Brinkley,Monroe,Brinkley Family Pharmacy,870-319-1001,1415 Pinecrest St.
+IMBODEN,Lawrence,JMRX LLC dba IMBODEN MEDICAL PHARMACY,870-869-2046,110 N WALNUT STREET
+POCAHONTAS,Randolph,JMRX LLC dba RANDOLPH COUNTY DRUG,870-202-2536,567 HWY 67 S
+Little Rock,Pulaski,Physical Therapy Institute,501-944-4101,1909 Hinson Loop Rd
+Hope,Hempstead,Christus Trinity Clinic - Hope,870-722-1020,805 Trinity Drive
+Paragould,Greene,1st Choice Healthcare Paragould,870-236-2000,#1 Medical Drive
+Ash Flat,Sharp,1st Choice Healthcare Ash Flat,870-994-2202,308 US 62W
+Corning,Clay,1st Choice Healthcare Corning,870-857-3399,1300 Creason Road
+Pocahontas,Randolph,1st Choice Healthcare Pocahontas,870-892-9949,141 Betty Drive
+Salem,Fulton,1st Choice Healthcare Salem,870-895-2735,172 Hwy 62 E
+Walnut Ridge,Lawrence,1st Choice Healthcare Walnut Ridge,870-886-5507,201 Colonial Drive
+Rogers,Benton,Hull Dermatology,479-254-9662,500 S 52nd Street
+Fort Smith,Sebastian,Encompass Health Fort Smith,479-785-3300,1401 South J Street
+Mountain View,Stone,Dr.Andy's Family Practice,870-269-7777,1809 Ozarka College Dr
+Lake Village,Chicot,Chicot Memorial Medical Center,870-265-9200,2729 South Highway 65 & 82
+Rogers,Benton,Debbie's Family Pharmacy,479-271-6300,5403 Pinnacle Point Drive
+Jonesboro,Craighead,NYIT at ASU Medical Clinic,870-972-2054,333 Red Wolf Blvd
+Hot Springs,Garland,"Arkansas Renal Group, PA",501-321-9803,115 Wrights Street
+LAKE VILLAGE,Chicot,FRESENIUS KIDNEY CARE,870-265-3837,505 ST MARY STREET
+MOUNTAIN HOME,Baxter,MOUNTAIN HOME CHRISTIAN CLINIC,870-425-5010,421 WEST WADE AVENUE
+Bay,Craighead,Access Medical Clinic Bay,870-770-1920,201 SOUTH BAY DRIVE
+Ash Flat,Sharp,Access Medical Clinic Ash Flat,870-994-7301,49 Hwy 62/412
+Hardy,Sharp,Access Medical Clinic Hardy,870-856-2100,4196 HWY 62/412
+Black Rock,Lawrence,Access Medical Clinic Black Rock,870-878-4005,3519 HIGHWAY 63
+Bono,Craighead,Access Medical Clinic Bono,870-520-6069,10144 HIGHWAY 63 N
+Marked Tree,Poinsett,Access Medical Clinic Marked Tree,870-358-4355,202 NEWSOME DRIVE
+Dardanelle,Yell,Access Medical Clinic Dardanelle,479-229-3004,176 STATE HWY 22 WEST
+Benton,Saline,West Side Pharmacy,501-778-3151,620 W. South St.
+Little Rock,Pulaski,Little Rock Pediatric Clinic,501-664-4044,500 S University Ave
+Conway,Faulkner,Fresenius Kidney Care Conway Dialysis,501-329-7715,201 Skyline Dr
+gravette,Benton,Austin Drug,479-787-5432,118 Main St. N.E.
+Little Rock,Pulaski,Smile Dailey-Dr DJ Dailey Dental Center,501-448-0032,17200 Chenal Parkway
+Crossett,Ashley,Barry V Thompson MDPA,870-364-5746,103 East 3rd Ave
+Springdale,Washington,"Rouse Family Medical Clinic, P.A.",479-443-0500,1306 South Pleasant Street
+Dierks,Howard,Access Medical Clinic Dierks,870-455-1172,704 MAIN AVENUE
+Marmaduke,Greene,ACCESS MEDICAL CLINIC MARMADUKE,870-565-9205,11885 N Hwy 49
+Cave City,Independence,ACCESS MEDICAL CLINIC CAVE CITY,870-376-2844,444 Taylor Circle
+Weiner,Poinsett,Access Medical Clinic Weiner,870-605-0014,106 NORTH VAN BUREN
+Malvern,Hot Spring,Access Medical Clinic Malvern,501-337-9820,1308 EAST PAGE AVE.
+Sheridan,Grant,Access Medical Clinic Sheridan,870-917-2289,810 S. ROCK ST.
+Cadarville,Crawford,Access Medical Clinic Cedarville,479-262-2244,9217 N HWY 59
+Lamar,Johnson,Access Medical Clinic Lamar,479-703-5000,291 W MAIN ST
+Hope,Hempstead,Access Medical Clinic Hope,870-777-0007,405 W 16TH STREET
+Perryville,Perry,Access Medical Clinic Perryville,501-238-1284,1016 N FOURCHE AVE
+El Dorado,Union,Access Medical Clinic El Dorado,870-444-5216,2280 E. MAIN ST.
+Greenbrier,Faulkner,Access Medical Clinic Greenbrier,501-679-8970,20 WILSON FARM RD.
+Caraway,Craighead,Access Medical Clinic Caraway,870-956-0200,104 W STATE ST
+Viola,Fulton,Access Medical Clinic Viola,870-458-6732,9798 HWY 62 W
+Rison,Cleveland,Access Medical Clinic Rison,888-264-5034,217 MAIN STREET
+West Fork,Washington,Access Medical Clinic West Fork,479-294-6085,451 PHILLIPS ST
+Flippin,Marion,Access Medical Clinic Flippin,870-453-2266,806 E MAIN ST.
+Concord,Cleburne,Access Medical Clinic Concord,844-291-4901,11005 Heber Springs Rd
+Marshall,Searcy,Access Medical Clinic Marshall,888-518-1418,942 HWY 65 N
+Heber Springs,Cleburne,Access Medical Clinic Heber Springs,501-365-2628,1713 W Main St
+Booneville,Logan,Access Medical Clinic Booneville,479-675-4100,871 W Main St
+Garfield,Benton,Access Medical Clinic Garfield,877-350-8893,16273 Highway 62
+Salem,Fulton,Access Medical Clinic Salem,870-895-2015,106 HWY 62W
+Lonoke,Lonoke,Access Medical Clinic Lonoke,501-438-8075,1010 N Center St
+FORT SMITH,Sebastian,Walgreen Co.,479-783-4782,2701 ROGERS AVE
+ROGERS,Benton,Walgreen Co.,479-246-0196,1722 W WALNUT ST
+BENTON,Saline,Walgreen Co.,501-860-7372,702 MILITARY RD
+JACKSONVILLE,Pulaski,Walgreen Co.,501-241-0225,819 W MAIN ST
+HARRISON,Boone,Walgreen Co.,870-365-0459,705 HIGHWAY 62 65 N
+WEST MEMPHIS,Crittenden,Walgreen Co.,870-733-0138,346 W BROADWAY ST
+FORT SMITH,Sebastian,Walgreen Co.,479-452-3330,8300 ROGERS AVE
+CONWAY,Faulkner,Walgreen Co.,501-327-5638,850 OAK ST
+HOT SPRINGS,Garland,Walgreen Co.,501-624-5598,159 E GRAND AVE
+WALDRON,Scott,Walgreen Co.,479-637-4197,1125 W 2ND ST
+OSCEOLA,Mississippi,Walgreen Co.,870-563-6516,850 W KEISER AVE
+MENA,Polk,Walgreen Co.,479-394-5144,803 HIGHWAY 71 N
+SPRINGDALE,Washington,Walgreen Co.,479-756-1290,3251 W SUNSET AVE
+EL DORADO,Union,Walgreen Co.,870-881-8434,701 W GROVE ST
+DANVILLE,Yell,Walgreen Co.,479-495-5444,300 E 8TH ST
+FAYETTEVILLE,Washington,Walgreen Co.,479-442-2561,4015 W WEDINGTON DR
+GREENWOOD,Sebastian,Walgreen Co.,479-996-5522,705 W CENTER ST
+HOT SPRINGS,Garland,Walgreen Co.,501-760-2089,1800 AIRPORT RD
+SPRINGDALE,Washington,Walgreen Co.,479-756-4368,3234 E ROBINSON AVE
+SHERWOOD,Pulaski,Walgreen Co.,501-833-2603,8521 HIGHWAY 107
+HOPE,Hempstead,Walgreen Co.,870-777-4830,1004 W COMMERCE
+MAUMELLE,Pulaski,Walgreen Co.,501-803-3274,115 COMMONS DR
+BENTONVILLE,Benton,Walgreen Co.,479-268-7979,1311 S WALTON BLVD
+LITTLE ROCK,Pulaski,Walgreen Co.,501-225-0703,111 N BOWMAN RD
+LITTLE ROCK,Pulaski,Walgreen Co.,501-217-3872,15500 CHENAL PKWY
+WEST MEMPHIS,Crittenden,Walgreen Co.,870-735-8987,1800 N MISSOURI ST
+HOT SPRINGS,Garland,Walgreen Co.,501-623-4377,3631 CENTRAL AVE
+MALVERN,Hot Spring,Walgreen Co.,501-467-8197,308 S MAIN ST
+NEWPORT,Jackson,Walgreen Co.,870-217-0170,2401 MALCOLM AVE
+CONWAY,Faulkner,Walgreen Co.,501-328-3117,505 SALEM RD
+BLYTHEVILLE,Mississippi,Walgreen Co.,870-763-4507,900 N 6TH ST
+FAYETTEVILLE,Washington,Walgreen Co.,479-442-2134,2750 E MISSION BLVD
+ROGERS,Benton,Walgreen Co.,479-936-8079,2503 W PLEASANT GROVE RD
+Calico Rock,Izard,Mitchell's Park Street Pharmacy,870-297-8107,526 Park Street
+BEEBE,White,BEEBE DRUG,501-882-5402,703 W DEWITT HENRY
+Little Rock,Pulaski,Pain Treatment Centers of America-LR,501-317-7515,108 N Shackleford Rd
+Eudora,Chicot,Eudora Drug Store,870-355-4448,140 S Main St
+Ashdown,Little River,Little River Memorial Hospital,870-898-5011,451 West Locke St.
+Springdale,Washington,Northwest Medical Center Springdale,479-757-4000,609 W Maple Avenue
+Holiday Island,Carroll,Prestige Assisted Living,479-619-7761,89 Hillside Drive
+Searcy,White,Joe's Pharmacy Express,501-268-9400,2412 E. Race ST
+Little Rock,Pulaski,Arkansas Heart Hospital,501-219-7474,1701 South Shackleford Road
+Texarkana,Miller,Albertsons/Savon 611,970-773-5521,3710 State Line Ave
+Little Rock,Pulaski,Shepherd's Hope Medical Clinic,501-614-9523,2404 South Tyler St
+Benton,Saline,Salem Pharmacy,501-316-1600,1208 Salem Rd
+hot springs,Garland,P. Ross Bandy MD,501-622-3574,300 prospect ave
+Siloam Springs,Benton,Sager Creek Pediatrics & Family Care,479-549-4228,1101-2 N Progress Ave
+Siloam Springs,Benton,Broadhurst Street Medical Clinic,479-373-1591,100 Broadhurst Cir
+Siloam Springs,Benton,Siloam Springs Medical Center,479-524-3141,451 S Holly Street
+Gentry,Benton,Gentry Medical Center,479-736-2213,643 E 3rd St.
+LITTLE ROCK,Pulaski,jccsi- LR Comm Center,501-663-0055,1100 NORTH UNIVERSITY
+NORTH LITTLE ROCK,Pulaski,JCCSI-NORTH LITTLE ROCK COMMUNITY HEALTH CENTER,501-812-0225,"2525 WILLOW STREET, STE 1"
+REDFIELD,Jefferson,JCCSI-REDFIELD CENTER,501-397-2261,823 RIVER ROAD
+COLLEGE STATION,Pulaski,JCCSI-COLLEGE STATION,501-490-2440,4206 FRAZIER PIKE
+LITLE ROCK,Jefferson,JCCSI-OPEN CENTER,501-244-2121,3000 SPRINGER BLVD. STE. B
+ALTHEIMER,Jefferson,JCCSI-ALTHEIMER CENTER,870-766-8411,309 SOUTH EDLINE STREET
+Pine Bluff,Jefferson,JCCSI-PINE BLUFF,870-543-2380,1101 South Tennessee
+Batesville,Independence,"E.J. Jones, MD",870-793-4300,255 Virginia Dr
+Clinton,Van Buren,Ozark Health,501-745-9502,2500 Highway 65 South
+Nashvile,Howard,Power Pharmacy,870-845-1413,1310 South 4th Street
+Stuttgart,Arkansas,Baptist Health Medical Center - Stuttgart,870-674-6365,1703 North Buerkle Rd
+Fayetteville,Washington,HER HEALTH BY WASHINGTON REG/FAYETTEVILLE,479-463-1000,3215 N Northhills Blvd
+Springdale,Washington,Shiloh Clinic,479-419-9902,513 N Shiloh St
+Springdale,Washington,East Springdale Family Clinic,479-463-4887,1607 S old Missouri Rd
+Harrison,Boone,Harrison Family Practice Clinic,870-741-8247,715 W Sherman
+Eureka Springs,Carroll,Eureka Springs Family Clinic,479-253-9746,146 Passion Ply Rd
+Farmington,Washington,Farmington Family Clinic,479-463-1001,199 E Main St
+301,Washington,Fayetteville Family Clinic,479-404-1200,3 East Appleby Road
+Fayetteville,Washington,Clinic for Senior Health,479-463-4444,12 East Applyby Road
+Lincoln,Washington,West Washington County Clinic,479-824-3196,106 E. Park St
+Fayetteville,Washington,Washington Regional Internal Medicine Associates,479-463-3070,688 Milsap Road
+Hot Springs,Garland,"Central Arkansas Rehabilitation Associates, L.P.",501-651-2000,1636 Higdon Ferry Rd
+West Memphis,Crittenden,"Alliance Senior Health, PLLC",870-733-3867,304 S. Rhodes St.
+North Little Rock,Pulaski,Sams Club 10-8266,501-955-9451,5600 Landers Rd
+Fort Smith,Sebastian,Sams Club 10-8134,479-484-8008,7700 Rogers Ave
+Little Rock,Pulaski,Sams Club 10-8104,501-219-0283,900 S Bowman Rd
+Greenbrier,Faulkner,Walmart 10-7317,501-287-6003,75 S Broadview
+Cabot,Lonoke,Walmart 10-6975,501-725-3639,1203 S Pine St
+Pea Ridge,Benton,Walmart 10-6971,479-451-9008,240 Slack Street
+Siloam Springs,Benton,Walmart 10-6960,479-549-9065,935 S Holly St
+Jonesboro,Craighead,Walmart 10-6943,870-203-7010,2811 Creek Dr
+Jonesboro,Craighead,Walmart 10-6876,870-203-7087,3319 Harrisburg Rd
+Jonesboro,Craighead,Sams Club 10-6377,870-203-7055,2405 South Caraway Road
+Rogers,Benton,Walmart 10-5837,479-254-6806,5000 Pauline Whitaker Pkwy
+Rogers,Benton,Walmart 10-5822,479-636-4101,2708 Rife Medical Ln
+Hot Springs,Garland,Walmart 10-5790,501-262-7519,1544 Malvern Ave
+Hot Springs,Garland,Walmart 10-5789,501-262-7508,1640 Airport Road
+Springdale,Washington,Walmart 10-5738,479-750-2903,3553 E Robinson Ave
+Fayetteville,Washington,Walmart 10-5737,479-442-2276,3475 W Black Forest Dr
+Little Rock,Pulaski,Walmart 10-5706,501-859-8710,700 Bowman Rd
+Rogers,Benton,Walmart 10-5260,479-621-0629,4208 Pleasant Crossing Blvd
+Little Rock,Pulaski,Walmart 10-5244,501-868-9854,19301 Cantrell Rd
+Bentonville,Benton,Sams Club 10-4969,479-621-0283,3500 SE Club Blvd
+Springdale,Washington,Sams Club 10-4808,479-365-8134,1517 Gene George Blvd
+Conway,Faulkner,Sams Club 10-4749,501-205-7460,1250 S Amity Rd
+Bentonville,Benton,Walmart 10-4686,479-268-7015,906 SW Airport Blvd
+Marion,Crittenden,Walmart 10-4654,870-394-7305,2100 Highway 77
+Fort Smith,Sebastian,Walmart 10-4579,479-289-6898,8600 US Hwy 71 S
+Fayetteville,Washington,Walmart 10-4516,479-435-2008,660 W Martin Luther King Blvd
+Bentonville,Benton,Walmart 10-4376,479-268-9830,1400 N Walton Blvd
+Beebe,White,Walmart 10-4168,501-882-1516,2003 W Center St
+Russelville,Pope,Walmart 10-4128,479-498-9540,2109 W Main St
+Springdale,Washington,Walmart 10-4108,479-306-7027,4870 Elm Springs Rd
+Rogers,Benton,Walmart 10-3479,479-633-0802,1819 S 8th St
+Pine Bluff,Jefferson,Walmart 10-3331,870-879-1420,5501 S Olive St
+Greenwood,Sebastian,Walmart 10-3231,479-996-8533,551 Liberty Dr
+Conway,Faulkner,Walmart 10-3168,501-205-7265,2550 Prince St
+Bentonville,Benton,Walmart 10-3164,479-268-9243,205 N Main St
+Fayetteville,Washington,Walmart 10-2997,479-443-1658,616 N Garland Ave Ste 363
+Fayetteville,Washington,Walmart 10-2745,479-571-6673,2690 E Citizens Dr
+Fort Smith,Sebastian,Walmart 10-2744,479-484-9125,4900 Rogers Ave Ste 101J
+Sherwood,Pulaski,Walmart 10-2743,501-833-3116,8801 Highway 107
+Springdale,Washington,Walmart 10-2742,479-750-7856,1375 Market Square Dr
+Bentonville,Benton,Walmart 10-2686,479-418-0229,1703 E Central Ave
+Cabot,Lonoke,Walmart 10-2587,501-941-5300,304 S Rockwood Dr
+Conway,Faulkner,Walmart 10-2575,501-328-5000,3900 Dave Ward Dr
+Bentonville,Benton,Walmart 10-2203,479-273-4941,702 SW 8th St
+Flippin,Marion,Walmart 10-1147,870-453-8831,168 Walmart Dr
+Mountain View,Stone,Walmart 10-1114,870-269-4295,409 Sylamore Ave
+Hope,Hempstead,Walmart 10-1065,870-777-1600,2400 N Hervey St
+Clinton,Van Buren,Walmart 10-0788,501-745-2888,1966 Highway 65 S
+West Helena,Phillips,Walmart 10-0714,870-572-6741,602 Shelia Dr
+Texarkana,Miller,Walmart 10-0468,870-772-7872,133 Arkansas Blvd
+Huntsville,Madison,Walmart 10-0373,479-738-1270,157 Gary Hatfield Way
+Fort Smith,Sebastian,Walmart 10-0388,479-782-0606,2100 N 62nd St
+Fayetteville,Washington,Walmart 10-0359,479-443-9267,3919 N Mall Ave
+Alma,Crawford,Walmart 10-0358,479-632-4330,367 Cherry St
+Monticello,Drew,Walmart 10-0348,870-367-3559,427 Highway 425 N
+Fordyce,Dallas,Walmart 10-0339,870-352-8034,1123 Highway 79 167 Byp
+Sheridan,Grant,Walmart 10-0336,870-942-5045,1308 S Rock St
+North Little Rock,Pulaski,Walmart 10-1105,501-945-9400,4450 E Mccain Blvd
+Arkedelphia,Clark,Walmart 10-0318,870-246-5410,109 Malone Dr
+Dardanelle,Yell,Walmart 10-0296,479-229-2157,1172 Old Highway 7 S
+McGehee,Desha,Walmart 10-0289,870-222-6233,1001 Highway 65 S
+Heber Springs,Cleburne,Walmart 10-0281,501-362-5837,1500 Highway 25B
+Searcy,White,Walmart 10-2431,501-203-2013,1330 W Beebe Capps Expy
+De Queen,Sevier,Walmart 10-0279,870-642-6921,926 E Collin Raye Dr
+Hot Springs,Garland,Walmart 10-0261,501-623-7689,4109 Central Ave
+Paris,Logan,Walmart 10-0230,479-963-2189,1501 E Walnut St
+Trumann,Poinsett,Walmart 10-0229,870-483-6157,512 Industrial Park Dr
+Bentonville,Benton,Walmart 10-2741,479-621-6470,3510 SE 14th St
+El Dorado,Union,Walmart 10-0530,870-862-4866,2730 N West Ave
+Ozark,Franklin,Walmart 10-0209,479-667-4448,1516 N 18th St
+Camden,Ouachita,Walmart 10-0171,870-836-0500,950 California Ave SW
+Lonoke,Lonoke,Walmart 10-0169,501-676-3184,322 Brownsville Loop
+Crossett,Ashley,Walmart 10-0167,870-364-7205,910 Unity Rd
+Ash Flat,Sharp,Walmart 10-0160,870-994-2152,219 Highway 62 412
+Bryant,Saline,Walmart 10-3230,501-847-4615,400 Bryant Ave
+Searcy,White,Walmart 10-0157,501-268-4946,3509 E Race Ave
+Fayetteville,Washington,Walmart 10-0144,479-521-4350,2875 W Martin Luther King Blvd
+Rogers,Benton,Walmart 10-3654,479-202-7197,808 W Walnut St
+Fort Smith,Sebastian,Walmart 10-0141,479-452-3695,8301 Rogers Ave
+Ashdown,Little River,Walmart 10-0133,870-898-2142,297 Highway 32 Byp
+Jonesboro,Craighead,Walmart 10-0128,870-972-1060,1911 W Parker Rd
+Malvern,Hot Spring,Walmart 10-0127,501-337-1170,1910 Martin Luther King Blvd
+Springdale,Washington,Walmart 10-4375,479-927-1867,4900 Jennifer Ter
+Little Rock,Pulaski,Walmart 10-0126,501-221-0096,2700 S Shackleford Rd
+Fort Smith,Sebastian,Walmart 10-0125,479-646-4983,2425 Zero St.
+Little Rock,Pulaski,Walmart 10-0124,501-565-1164,8801 Baseline Road
+Batesville,Independence,Walmart 10-0119,870-793-4464,3150 Harrison St
+Stuttgart,Arkansas,Walmart 10-0102,870-673-1834,406 E 22nd St
+Bentonville,Benton,Walmart 10-0100,479-273-5080,406 S Walton Blvd
+Forrest City,St. Francis,Walmart 10-0091,870-633-0465,205 Deadrick Rd
+Benton,Saline,Walmart 10-0085,501-778-5041,17309 Interstate 30 S
+Hot Springs,Garland,Sams Club 10-4825,501-625-7212,1368 Higdon Ferry Rd
+Magnolia,Columbia,Walmart 10-0083,870-234-5421,60 Highway 79 N
+Berryville,Carroll,Walmart 10-0076,870-423-6611,1000 W Trimble Ave
+Hot Springs Village,Garland,Walmart 10-5433,501-318-0902,3604 N Highway 7
+Osceola,Mississippi,Walmart 10-0074,870-563-6633,2720 W Keiser Ae
+Pocahontas,Randolph,Walmart 10-0071,870-892-4441,1415 Highway 67 S
+Paragould,Greene,Walmart 10-5780,870-586-7945,2600 Linwood Dr
+West Memphis,Crittenden,Walmart 10-0070,870-735-2324,798 W Service Rd
+Wynne,Cross,Walmart 10-0068,870-238-7146,800 Highway 64 E
+Mena,Polk,Walmart 10-0067,479-394-3897,600 Highway 71 N
+Clarksville,Johnson,Walmart 10-0066,479-754-6169,230 Market St
+Blytheville,Mississippi,Walmart 10-0062,870-763-1013,3700 E Highway 18
+Russelville,Pope,Walmart 10-0058,479-968-2970,2409 E Main St
+Walnut Ridge,Lawrence,Walmart 10-0057,870-886-2806,1600 W Main St
+Booneville,Logan,Walmart 10-0055,479-675-5341,1400 E Main Street
+Bentonville,Benton,Walmart 10-6953,479-795-4105,1800 E Centerton Blvd
+Springdale,Washington,Walmart 10-0054,479-756-0860,2004 S Pleasant St
+Hot Springs,Garland,Walmart 10-0052,501-624-0142,1601 Albert Pike Rd
+Jonesboro,Craighead,Walmart 10-0045,870-972-1838,1815 E Highland Dr
+Paragould,Greene,Walmart 10-0036,870-236-7785,2802 W Kingshighway
+Nashville,Howard,Walmart 10-0033,870-845-1573,1710 S 4th St
+Jacksonville,Pulaski,Walmart 10-0024,501-982-3357,2000 John Harden Dr
+Farmington,Washington,Walmart 10-7242,479-267-0043,367 W Main St
+Fayetteville,Washington,Sams Club 10-8209,479-587-1853,3081 N Highway 112
+Newport,Jackson,Walmart 10-0018,870-523-2383,1211 Highway 367 N
+Van Buren,Crawford,Walmart 10-0016,479-474-5051,2214 Fayetteville Rd
+Mountain Home,Baxter,Walmart 10-0011,872-492-7733,65 Wal Mart Dr
+Morrilton,Conway,Walmart 10-0008,501-354-4135,1621 N Business 9
+Sherwood,Pulaski,Walmart 10-0007,501-833-0701,9053 Highway 107
+Conway,Faulkner,Walmart 10-0005,501-329-1592,1155 Highway 65 N
+Siloam Springs,Benton,Walmart 10-0004,479-524-3156,2901 Highway 412 E
+Harrison,Boone,Walmart 10-0002,870-741-2327,161 N Walmart Dr
+Rogers,Benton,Walmart 10-0001,479-636-8238,2110 W Walnut St
+Clarksville,Johnson,River Valley Primary Care Services,479-668-3282,708 West Main St
+Clarksville,Johnson,Clarksville Community Health Center- RVPCS,479-668-3282,708 West Main St
+Coal Hill,Johnson,River Valley Primary Care Services,479-279-7676,1273 Highway 64
+Bonanza,Sebastian,River Valley Primary Care Services,479-279-7690,920 State Hwy 45
+Lavaca,Sebastian,RVPCS Lavaca Wellness Center,479-279-7700,603 South Division Street
+Ratcliff,Logan,RVPCS Ratcliff Clinic,479-431-2050,9755 W. State Highway 22
+Waldron,Scott,RVPCS- Waldron Family Clinic,479-668-4700,2074 Rice Road
+Mountainburg,Crawford,RVPCS Mountainburg Family Clinic,479-369-2091,4 Highway 71 N.E.
+Fort Smith,Sebastian,RVPCS Eastside Family Clinic,479-434-4747,4003 Massard Road
+Lamar,Johnson,RVPCS Lamar Wellness Center,479-668-4881,635 Childers Street
+Mulberry,Crawford,RVPCS Mulberry Family Clinic,479-997-1484,421 North Main St.
+Fort Smith,Sebastian,RVPCS Northside Kelley Clinic,479-785-5700,4900 Kelley Highway
+Gould,Lincoln,Wellpath- Varner,870-575-1800,320 HWy 388 East
+TUcker,Jefferson,WEllpath- Maxiumum Security Unit,870-850-8899,2501 State Farm Rd
+Pine Bluff,Jefferson,Wellpath-Randal L Williams,870-267-6800,7206 W 7th
+West Memphis,Crittenden,Wellpath-East Central community Corrections,870-400-3101,200 W Tyler
+Newport,Jackson,Wellpath-Grimes,870-523-5877,300 Corrections Dr
+Dermott,Chicot,Wellpath-Delta,870-538-2000,880 East Gaines
+Gould,Lincoln,Wellpath-Cummins,870-850-8899,2540 Hwy 388
+Luxora,Mississippi,Wellpath-Mississippi County Work Release,870-658-2214,727 North Cty Rd 599
+Newport,Jackson,Wellpath-McPherson,870-523-2639,302 Corrections Dr
+Brickets,Lee,Wellpath- East Arkansas Regional Unit,870-294-4700,326 Lee Rd
+Wrightsville,Pulaski,Wellpath- Hawkins,501-897-5806,8400 Hwy 386
+Pine Bluff,Jefferson,Wellpath-Ester,870-267-6240,7500 Correction Drive
+Benton,Saline,Wellpath- Benton Work Release,501-860-0942,6701 Hwy 67
+Little Rock,Pulaski,Wellpath-Central Arkansas Center,501-686-9800,4823 West 7th
+Wrightsville,Pulaski,Wellpath-Wrightsville,501-897-5806,8400 Hwy 386
+Pine Blufff,Jefferson,Wellpath - Pine Bluff unit,870-267-6510,890 freeline dr
+Texarkana,Miller,Wellpath - Texarkana Regional,870-779-1222,305 East 5th St
+Pine Bluff,Jefferson,ADC Wellpath- Princeton Pike,870-267-6291,6814 Princeton Pike
+Tucker,Jefferson,Wellpath - Tucker,870-850-8899,2400 State Farm Rd
+Malvern,Hot Spring,Wellpath - Ouchita River unit,501-467-3400,100 Walco Dr
+Malvern,Hot Spring,Wellpath - Omega,501-467-3041,104 WAlco Dr
+Springdale,Washington,Wellpath- Northwest Work Release,479-756-2037,600 West Sunset
+Fayetteville,Washington,Wellpath - NorthwestArkansas Community Corrections,479-695-3428,114 N College St
+Osceola,Mississippi,Wellpath - Northeast Arkansas Community Corrections,870-563-8330,1351 Cyro Rd
+Calico Rock,Izard,Wellpath - North Central Unit,870-297-4311,10 Prison Circle
+Texarkana,Miller,Wellpath- Southwest Arkansas Community Corrections,870-779-2036,506 Walnut st
+Little Rock,Pulaski,Little Rock Eye Clinic,501-224-5658,201 Executive Court
+Russellville,Pope,C & D Drug Store,479-968-2456,121 N Commerce Ave
+Little Rock,Pulaski,"Little Rock Children's Clinic, P.A.",501-227-6727,9600 Baptist Health Drive
+Holiday Island,Carroll,Holiday Island Pharmacy,479-239-2121,2 Forest Park Drive
+De Queen,Sevier,Lansdell Family Clinic- DeQueen,870-584-1055,500 E. Collin Raye Dr.
+Lockesburg,Sevier,Lansdell Family Clinic- Lockesburg,870-289-2076,101 W. Main St.
+Dierks,Sevier,Lansdell Family Clinic- dierks,870-286-2128,1124 Main Ave
+Texarkana,Miller,"Lansdell Family Clinic-Texarkana, AR",870-330-4385,3809 E. 9th St
+Searcy,White,Harding University College of Pharmacy,501-279-5459,803 E. Park
+BENTONVILLE,Benton,THE CLINIC AT COMMERCE CENTRE,479-273-2228,301SOUTHWEST 16TH STREET
+Searcy,White,Stotts Drug Co. Inc.,501-268-2536,103 W. Arch Ave
+Pine Bluff,Jefferson,Fresenius Medical Care Pine Bluff Dialysis,870-536-8050,2910 Market st
+Helena,Phillips,"Phillips Hospital Company, LLC d/b/a Helena Regional Medic",870-338-5800,1801 Martin Luther King Drive
+Little Rock,Pulaski,Fresenius Kidney Care East Little Rock Dialysis,501-660-7867,5320 West 12 th Street
+Little Rock,Pulaski,"Nephropathology Associates, PLC dba. Arkana Laboratories",501-604-2695,10810 Executive Center Drive
+Marion,Crittenden,Marion Minor Medical,870-559-2314,136 Block St
+vilonia,Faulkner,VILONIA FAMILY PHARMACY,501-796-2204,1122 main st
+Danville,Yell,John Ed Chambers Memorial Hospital,479-495-2241,719 Detroit
+Van Buren,Crawford,"Barlow Pharmacies, Inc dba Pharmacy Express",479-474-7171,1515 Fayetteville Rd
+Little Rock,Pulaski,Cornerstone Specialty Hospitals Little Rock,501-515-2292,2 St. Vincent Drive (6th Floor)
+Little Rock,Pulaski,Hillcrest Family Practice Clinic,501-664-0769,4601 Woodlawn Dr
+Hot Springs,Garland,Genoa Healthcare 00109,501-762-8919,125 Wellness Way
+Springdale,Washington,Genoa Healthcare 00068,479-419-9285,2400 S. 48th St
+Texarkana,Miller,Genoa Healthcare 20091,870-397-8985,2904 Arkansas Blvd
+El Dorado,Pulaski,Genoa Healthcare 20160,870-639-6227,715 North College Ave
+Little Rock,Union,Genoa Healthcare 20142,501-859-0472,10025 West Markham
+Fort Smith,Sebastian,Genoa Healthcare 20010,479-755-2652,3111 S. 70th St
+Fayetteville,Washington,McDonald Eye Associates,479-521-2555,3689 N. Steele Blvd
+ROGERS,Benton,OCH BENTON COUNTY CLINIC,479-278-7189,102 RUSSELL ROAD
+GRAVETTE,Benton,OCH GRAVETTE CLINIC,479-787-5221,1101 JACKSON ST SW
+GRAVETTE,Benton,OZARK COMMUNITY HOSPITAL,479-787-5291,1101 JACKSON ST SW
+Blytheville,Mississippi,Rose Pharmacy,870-762-4545,1003 N. 6th St
+Fayetteville,Washington,TruHealth Family Care,479-527-9966,2630 E. Citizens Drive
+Cabot,Lonoke,Cabot Emergency Hospital,501-333-9110,212 Willie Ray Dr
+Fort Smith,Sebastian,Pediatric Partners,479-478-7200,7303 Rogers Ave
+marion,Crittenden,Marion Family Pharmacy,870-739-1111,134 block st
+Star City,Lincoln,Mainline Health Systems Star City Clinic,870-628-5110,110 North Drew St
+Warren,Bradley,Mainline Health Systems Warren Clinic,870-226-6786,1012 East Church St
+Dermott,Chicot,Mainline Health Systems Dermott Clinic,870-538-5296,300 S. School St
+Eudora,Chicot,Mainline Health Systems Eudora Clinic,870-355-2512,579 E. Beouff St
+Portland,Ashley,Mainline Health Systems Portland Clinic,870-737-2221,233 N. Main St
+Monticello,Drew,Mainline Health Systems UAM Clinic,870-367-6246,136 University Court
+Wilmot,Ashley,Mainline Health Systems,870-473-2274,203 McComb St
+Monticello,Drew,Mainline Health Systems Monticello Clinic,870-367-6246,535 Jordan Drive
+Rison,Cleveland,Mainline Health Systems,870-325-6255,505 Sycamore St
+Hope,Hempstead,Wadley Regional Medical Center At Hope,870-722-3800,2001 S. Main Street
+Little Rock,Pulaski,Arkansas Otolaryngology Center,501-227-5050,10201 Kanis Rd
+North Little Rock,Pulaski,Medicine Man Pharmacy JFK,501-907-2095,5308 JFK Blvd
+Benton,Saline,Central AR Pediatric Clinic,501-847-2500,2301 Springhill Rd.
+Cabot,Lonoke,Greystone Rx,501-286-6054,15361 Hwy 5
+WYNNE,Cross,WYNNE APOTHECARY,870-238-8511,411 S FALLS BLVD
+Paragould,Greene,Walden Drug,870-236-6118,3104 W Kingshighway
+Viola,Fulton,Pharmacy Barn LLC,870-900-1001,9746 Hwy 62 West
+Fort Smith,Sebastian,Good Samartian Clinic,479-783-0233,615 North B Street
+PARAGOULD,Greene,MCHANEY DRUG,870-236-3180,1400 WEST HUNT STREET
+Marked Tree,Poinsett,Family Care Pharmacy,870-358-2484,98 Hwy 63 B suite A
+Little Rock,Pulaski,Mobiile Health Screenings Inc,901-335-1782,2100 Riverdale
+Conway,Faulkner,Smith Family Pharmacy,501-336-8188,2425 Dave Ward Drive
+Dardanelle,Yell,Dardanelle Regional Medical Center,479-229-4677,200 N 3rd St
+Crossett,Ashley,"Baker's Pharmacy, Inc.",870-364-5155,300 Main street
+Gentry,Benton,"Smith Drug, PLLC",479-736-2241,695 E Third St
+Jacksonville,Pulaski,Cornerstone Pharmacy Jacksonville,501-982-6979,315 S James St
+Horseshoe Bend,Izard,Horseshoe Health & Medicine,870-670-4580,600 Market St
+Rogers,Benton,Everest Rehabilitation Hospital of NWA,479-341-4003,4313 S. Pleasant Grove Crossing Blvd
+Little Rock,Pulaski,SMA Medicine & Nephrology Clinic,501-603-9277,1515 Kanis Park Drive
+Searcy,White,"Stan-Kel Pharmacies, Inc.",501-305-1000,2007 West Beebe Capps Exp.
+Bentonville,Benton,"Infinity Compounding Solutions, LLC dBa Infinity Care Solu",888-414-5805,1204 SE 28th St.
+Marianna,Lee,Lee County Cooperative Clinic,870-295-5225,530 West Atkins Blvd
+Little Rock,Pulaski,Arkansas Children's Hospital - West Little Rock Clinic,501-364-1869,16101 Cantrell Road
+Little Rock,Pulaski,Arkansas Children's Hospital,501-364-1287,1 Children's Way
+Jonesboro,Craighead,Arkansas Children's Hospital - Jonesboro Clinic,870-251-8925,520 Carson Street
+Little Rock,Pulaski,Arkansas Children's Hospital - Southwest Little Rock Clini,501-214-9129,9015 Daily Drive
+Walnut Ridge,Lawrence,Rogers Pharmacy,870-886-5700,221 SW 2nd St.
+Springdale,Washington,Arkansas Children's Northwest,479-725-6844,2601 Gene George Blvd
+Harrison,Boone,"Hometown Doc, PA",870-399-0077,1014 N Spring St
+Little Rock,Pulaski,DCI-Little Rock,501-227-0983,1910 John Barrow Road
+Fayetteville,Washington,Vantage Point of Northwest Arkansas,479-521-5731,4253 N. Crossover Road
+HIGHLAND,Sharp,"DAVIDSON DRUG,  LLC",870-955-1022,1238A HIGHWAY 62/412
+conway,Faulkner,valley health services,501-513-1225,1545 hogan lane
+Blytheville,Mississippi,Great River Medical Center,870-838-7181,1520 North Division Street
+Osceola,Mississippi,South Mississippi County Regional Medical Center,870-563-7000,611 West Lee Avenue
+Murfreesboro,Pike,Peoples Pharmacy,870-285-2111,317 East 13th Street
+Atkins,Pope,Atkins Family Pharmacy,479-641-7878,1601 B North Church Street
+arkadelphia,Clark,Robert A Dorman MD,870-246-6766,2850 twin rivers dr
+Fayetteville,Washington,Arkansas Outpatient Eye Surgery,479-249-6006,3689 N Steele Blvd
+Pocahontas,Randolph,St Bernards Five Rivers Medical Center,870-892-6217,2801 Medical Center Drive - Hwy 90 & Country Club Rd
+Siloam Springs,Benton,Siloam Springs Regional Hospital,479-215-3000,603 N Progress Ave
+Searcy,White,Stanley Pharmacy Compounding Center,501-305-4108,2413 West Beebe Capps Exp
+Johnson,Washington,Northwest Medical Center- Willow Creek Women's Hospital,479-684-3000,4301 Greathouse Springs Road
+Little Rock,Pulaski,Freiderica Pharmacy,501-374-2207,400 West Capitol Ave
+Piggott,Clay,Piggott Community Hospital,870-598-3881,1206 Gordon Duckworth Dr
+Camden,Ouachita,Dan Martin MD,870-836-6627,476 Hospital Dr
+Mountain Home,Baxter,"Regional Family Medicine PA, East",870-425-6971,630 Burnett Dr.
+Mountain Home,Baxter,"Regional Family Medicine PA, Main",870-425-6971,630 Burnett Dr.
+Forrest City,St. Francis,"Brandy Davis, MD PA",870-494-4000,904 Holiday Dr
+Heber Springs,Cleburne,ReedHutchins Pharmacy,501-270-8888,408 W. Main St.
+Harrison,Boone,Chris W. Taylor,870-741-1616,1425 Rock Springs Road
+JONESBORO,Craighead,GIBSONS PHARMACY OF CRAIGHEAD COUNTY,870-972-9125,403 EAST MATTHEWS AVENUE
+Calico Rock,Izard,Izard County Medical Center,870-297-3726,61 Grasse Street
+Walnut Ridge,Lawrence,FAMILY MED CENTER-Lawrence Memorial Hospital,870-886-3211,1309 W Main St
+WALNUT RIDGE,Lawrence,LAWRENCE MEMORIAL HOSPITAL,870-886-1200,1309 W MAIN
+JONESBORO,Craighead,NEA PHARMACEUTICALS DBA PARKER ROAD SPECIALITY PHARMACY,870-935-6400,1109 W PARKER ROAD
+Forrest City,St. Francis,Forrest City Medical Center,870-261-0125,1601 Newcastle Road
+Fayetteville,Washington,NW Health Physician's Specialty Hospital,479-575-7070,3873 Parkview Dr
+Little Rock,Pulaski,Arkansas Plastic Surgery,501-219-8388,9500 Kanis Road
+Bryant,Saline,Baptist Health Urgent Care- Bryant,501-205-7020,3304 Commonwealth Drive
+Benton,Saline,Baptist Health Urgent Care- Benton,501-205-7020,824 Military Road
+Magnolia,Columbia,College Pharmacy Inc. dba Prince Pharmacy,870-234-7292,211 East Stadium
+ROGERS,Benton,OZARK PEDIATRICS PLLC,479-544-9432,5507 W WALSH LN STE 101
+Fort Smith,Sebastian,Baptist Health Urgent Care,479-226-8340,7600 Rogers Ave
+Harrison,Boone,Urgent Team of Arkansas Physicians LLC,870-204-7263,808 US 65-62
+Hot Springs,Garland,Sherwood Urgent Care- Hot Springs,501-547-9481,201 Airport Road
+Little Rock,Pulaski,Baptist Urgent Care- Little Rock,501-260-7992,6805 Cantrell
+Lonoke,Lonoke,Sherwood Urgent Care- Lonoke,501-676-6560,1306 North Center St.
+Maumelle,Pulaski,"Urgent Team of Arkansas Physicians, LLC",501-803-9481,"123 Audubon Dr., Suite 600"
+North Little Rock,Pulaski,Baptist Health Urgent Care - North Little Rock,501-214-7177,3550 Springhill Dr
+Clarksville,Johnson,Rose Drug of Clarksville,479-754-2180,211 E. Main St
+Cabot,Lonoke,Baptist Health Urgent Care,501-628-9215,402 W Main
+Quitman,Cleburne,Sherwood Urgent Care - Quitman,501-365-1059,6134 Heber Springs Rd
+Rogers,Benton,"Urgent Team of Arkansas Physicians, LLC",479-326-8525,2301 W Pleasant Grove Rd
+Conway,Faulkner,Conway Behavioral Health,501-205-0011,2255 Sturgis Road
+Searcy,White,Sherwood Urgent Care - Searcy,501-268-6831,610 Shepherd Way
+MARION,Crittenden,"MID-SOUTH RENAL CLINIC,PLC",870-733-1177,1120 STATE HWY 77
+Springdale,Washington,Urgent Team of Arkansas Physicans LLC,479-717-7089,3300 W Sunset Ave
+Little Rock,Pulaski,Baptist Urgent Care- West Little Rock,501-482-3074,14524 Cantrell
+Little Rock,Pulaski,Smith's Country Club Drug Store,501-663-4118,5114 Kavanaugh Blvd
+Mayflower,Faulkner,Mayflower Family Pharmacy,501-470-9898,616 B HWY 365
+Clarksville,Johnson,Johnson Regional Medical Center,479-754-5554,1100 East Poplar
+Van Buren,Crawford,Baptist Health Van Buren,479-471-4395,East Main and South 20th
+Salem,Fulton,Fulton County Hospital,870-895-2691,679 N. Main
+Eureka Springs,Carroll,Eureka Springs hospital,479-253-7400,24 Norris Street
+Little Rock,Pulaski,Southwest Family Practice,501-562-1463,6924 Geyer Springs Rd
+Bentonville,Benton,Northwest Medical Center - Bentonville,479-553-1000,3000 Medical Center Parkway
+Magnolia,Columbia,"Magnolia Regional Health System, Inc dba Magnolia Regional",870-235-3214,101 Hospital Drive
+West Memphis,Crittenden,Graham Primary Healthcare,870-394-4387,200 South Rhodes Suite C
+Dewitt,Arkansas,"Dewitt Hospital and Nursing Home,INC",870-946-3571,1641 S. Whitehead drive
+Hot Springs,Garland,Levi Hospital,501-624-1281,300 Prospect Avenue
+Russellville,Pope,"Urgent Team of Arkansas Physicians, LLC",479-567-5652,106 Weir Rd
+Little Rock,Arkansas,All For Kids Pediatric  Clinic,501-224-5437,904 Autumn Road
+N Little Rock,Pulaski,Cornerstone Pharmacy JFK,501-246-5035,5328 JFK Blvd
+dumas,Desha,Delta Memorial Hospital,870-382-4303,811 hwy 65 south
+North Little Rock,Pulaski,North Little Rock,501-975-7456,4261 Stockton Dr
+Salem,Fulton,Scribner Family Practice Clinic,870-895-3238,115 Tuner Ln
+Fayetteville,Washington,Vold Vision,479-442-8653,2783 N. Shiloh Dr.
+El Dorado,Union,Life Touch Hospice,870-862-0337,2301 Champagnolle Rd
+White Hall,Jefferson,Family Medicine of White Hall,870-850-8055,7245 Sheridan Road
+Fordyce,Dallas,Dallas County Medical Center,870-352-6300,201 North Clifton Street
+White Hall,Jefferson,Thrive Pediatric Nursing INC,501-353-1422,7197 Sheridan Rd
+Marion,Crittenden,Vital Wellness Clinic LLC,870-551-4099,4001 Commercial Center Dr #1
+Benton,Saline,FKC Benton Dialysis,501-776-1418,2101 Old Congo Rd
+Little Rock,Pulaski,"Radiology Associates, P.A.",501-664-3914,500 S. University
+Ashdown,Little River,Domtar Ashdown Mill Health Center,870-898-6000,108 Highway 71 South
+Searcy,White,"Providence PCC of Searcy, LLC",501-268-4169,3014 East Moore Ave.
+Little Rock,Pulaski,Dr. Smith Direct Care,501-801-1755,11908 Kanis Rd
+Cave City,Sharp,"Fore Family Practice, LLC",870-283-5550,307 N Main St
+Fort Smith,Sebastian,Premise Health - Fort Smith East,479-434-3431,7215 Cameron Park Dr.
+Rogers,Benton,Premise Health Clinic - Nabholz,479-659-7920,3307 N 2nd St
+Fort Smith,Sebastian,Premise Health - Rheem Fort Smith,479-242-4290,5600 Old Greenwood Rd.
+Fayetteville,Washington,Premise Health - Fayetteville,479-442-9900,2907 E Joyce Blvd
+Fort Smith,Sebastian,Premise Health - ArcBest - Fort Smith,479-226-5212,3501 Old Greenwood Rd.
+Fort Smith,Sebastian,Premise Health - OK Foods,479-974-1270,4105 Newlon Rd
+Fort Smith,Sebastian,"Premise Health - Weldon, Williams, & Lock",479-784-2150,811 N B
+Gentry,Benton,Premise Health - McKee Foods Family Health Center,479-326-8670,555 McKee Dr.
+Waldron,Scott,Health-Wise Pharmacy - Waldron,479-637-3300,47 Hwy 71 S
+Lavaca,Sebastian,Health-Wise Pharmacy,479-674-2222,1800 W Main
+Conway,Faulkner,Sherwood Urgent Care- Conway,501-505-8400,222 Dave Ward Dr.
+Conway,Faulkner,Sherwood Urgent Care- Conway North,501-499-6222,1065 Skyline Drive
+Batesville,Independence,Sherwood Urgent Care - Batesville,870-793-5800,1547 Harrison
+Wynne,Cross,Urgent Team Jacobs Clinic,870-238-3261,411 Falls Blvd. S.
+Little Rock,Pulaski,STAT Home Health CenArk LLC,501-982-6115,15104 Pride Valley Rd
+Jacksonville,Pulaski,"Urgent Team of Arkansas Physicians, LLC",501-241-4510,1813 T.P. White Dr.
+Little Rock,Pulaski,Arkansas State Hospital,501-686-9429,4313 West Markham
+Paragould,Greene,"City Drug Company, INC.",870-236-8501,1512 Linwood Drive
+Fayetteville,Washington,Vantage Point Behavioral Health,479-521-5731,4253 N Crossover Rd
+DARDANELLE,Yell,BERRY DRUG OF DARDANELLE,479-229-4811,417 UNION STREET
+LITTLE ROCK,Pulaski,PRIMARY CARE OF ARKANSAS,501-666-6100,500 S. UNIVERSITY AVE
+Magazine,Logan,County Discount Pharmacy,479-969-2727,48 S. Garland st
+Fayetteville,Washington,"Northwest Arkansas Pediatrics, a MANA Clinic",479-443-3471,3383 N MANA Court
+Fayetteville,Washington,MANA Urgent Care Wedington,479-442-0006,1188 Salem Road
+Springdale,Washington,MANA Family Medicine Springdale,479-750-3630,1109 S West End Street
+Springdale,Washington,MANA Family Medicine Har-Ber,479-361-1020,171 N Maestri
+Springdale,Washington,MANA Family Medicine Thompson,479-756-1300,4401 S Thompson Street
+Prairie Grove,Washington,MANA Family Medicine Prairie Grove,479-267-5600,775 E Douglas
+Fayetteville,Washington,"Medical Associates of Northwest Arkansas, P.A.",479-571-6780,3383 N MANA Court
+Fayetteville,Washington,MANA Family Medicine North,479-443-3536,3340 N. College
+Fayetteville,Washington,MANA Family Medicine South,479-442-2822,2523 Huntsville Road
+Rogers,Benton,MANA Family Medicine Pinnacle Hills,479-464-5599,3730 Pinnacle Hills Parkway
+Fayetteville,Washington,Northwest Arkansas Rehabilitation Associates,479-444-2200,153 E Monte Painter Drive
+Harrison,Boone,Harrison Dilaysis,870-204-6683,1409 Gladden Street
+Springdale,Washington,Ridgeview Group Home,479-248-1051,12958 HWY 112
+Fayetteville,Washington,Piney Ridge Treatment Center,479-587-1408,2805 E Zion Rd
+Springdale,Washington,"Learning and Behavior Solutions, Inc.",479-318-2300,1022 Jones Rd
+Centerton,Benton,Reeves Medical Associates,479-224-1565,1415 E Centerton Blvd
+Conway,Faulkner,Noydeen Sister's Medical Group,501-209-4040,655 Dave Ward Drive
+Greenbrier,Faulkner,American Drugs,501-679-2211,1 East Main
+Bentonville,Benton,Urgent Team of Arkansas Physicans LLC,479-367-3078,1301 S Walton Blvd
+Jonesboro,Craighead,Arkansas State University,870-972-2054,333 Red Wolfe Blvd.
+Jonesboro,Craighead,NEA Baptist Clinic,870-275-2413,4802 E. Johnson Ave
+Little Rock,Pulaski,Betton Clinic,501-376-1160,1505 West 11th Street
+Harrison,Boone,Sam Alexander Pharmacy,870-741-6511,127 N. Main St.
+Lake Village,Chicot,Southeast Rural Health Clinic,870-265-9810,608 Hwy 65 & 82
+Lake Village,Chicot,Southeast Rehabilitation Hospital,870-265-4333,905 Borgognoni
+Paragould,Greene,"Paragould Family Care, PA",870-236-4001,5 Market Place
+Hot Springs,Garland,Harmony Park Family Medicine,501-881-4988,128 Harmony Park Circle
+Jonesboro,Craighead,Stone's Pharmacy,870-935-5538,417 E. Matthews Ave
+NORTH LITTLE ROCK,Pulaski,ARGENTA DRUG,501-374-4851,324 MAIN ST
+Eureka Springs,Carroll,Smith Drug & Company,479-253-6000,133 East Van Buren Street
+Forrest City,St. Francis,"James T Meredith, MD PA",870-633-4711,921 Holiday Drive
+DeWitt,Arkansas,Tommy's Rexall Drug Co Inc,870-946-4221,220 Court Square
+Clinton,Van Buren,Family Practice Center,501-745-2800,194 Shakerag Road
+El Dorado,Union,Melvins Discount Pharmacy,870-863-4155,828 W Hillsboro
+Stuttgart,Arkansas,Urgent Care of Stuttgart,870-672-0911,1012 B East 22nd St
+Benton,Saline,Saline Med Peds Group,501-315-1222,105 McNeil St
+Van Buren,Crawford,Sophia Meyer Family Medicine 620 Broadway street Van Buren,479-474-5061,620 Broadway Street
+nORTH lITTLE rOCK,Pulaski,Concentra,501-945-0661,3470 LANDERS rD
+North Little Rock,Pulaski,Kelli Keene Sanders MD INC,501-753-1881,505 West Pershing Blvd
+LITTLE ROCK,Pulaski,MARTIN ORTHOPEDICS,501-975-5633,5320 WEST MARKHAM ST
+Fort Smith,Sebastian,Arkansas Colleges of Health Education,479-308-2243,7000 Chad Colley Blvd
+Marion,Crittenden,"Phillips Family Healthcare, LLC",870-559-4252,2921 HWY 77 South
+Pine Bluff,Jefferson,Super 1 Foods Pharmacy #634,870-534-1380,1605 E. Harding Ave.
+Pine Bluff,Jefferson,Super 1 Foods Pharmacy #628,870-247-5854,5805 Dollarway Road
+Arkadelphia,Clark,Brookshire Pharmacy #96,870-246-2015,"2800 Pine St, #5 Pine Plaza"
+Camden,Ouachita,Brookshire Pharmacy #85,870-836-3324,1345 Hwy 4 Spur SW
+Pine Bluff,Jefferson,Super 1 Foods Pharmacy #622,870-535-4044,2800 S. Hazel Street
+Crossett,Ashley,Brookshire Pharmacy #82,870-364-8220,1600 Dr. Martin Luther King Jr Drive
+Hope,Hempstead,Super One Pharmacy #619,870-777-6989,909 N Hervey
+Magnolia,Columbia,Brookshire Pharmacy #81,870-234-7073,1623 E. Main
+Ashdown,Little River,Brookshire Pharmacy #62,870-898-5501,1310 S. Constitution Ave
+El Dorado,Union,Brookshire Pharmacy #48,870-864-0107,2202 N West Ave
+El Dorado,Union,Brookshire Pharmacy #40,870-863-7996,220 S. West Ave.
+Hampton,Calhoun,Hampton Medical Pharmacy,870-798-4247,344 South Lee St
+Little Rock,Pulaski,Advanced Allergy & Asthma,501-420-1085,500 S University
+Searcy,White,"Searcy Medical Center Pharmacy, LLP",501-268-3311,2900 Hawkins Dr
+Berryville,Carroll,Poynor Drug LLC,870-423-2737,408 Public Square
+Little Rock,Pulaski,"D&D Pharmacy, LLC",501-747-1888,8908 Kanis Road
+Little Rock,Pulaski,Wright Plastic Surgery,501-575-0088,1701 Centerview dt
+Little Rock,Pulaski,Fresenius Kidney Care  Little Rock Dialysis,501-225-3890,10310 W. Markham
+Benton,Saline,Smith Caldwell Drug,501-315-7700,414 N. Main Street
+Carlisle,Lonoke,Lewis-Cook Drug Store Inc. dba (Medsker's Family Pharmacy),870-552-7837,121 North Court Street
+Clarksville,Johnson,Marshall Medical Clinic,479-754-6777,3 Medicine Dr
+Bismarck,Hot Spring,Frontier Pharmacy- Bismarck,501-214-6100,104 Millennium Park Drive
+Conway,Faulkner,Amity Road Pharmacy,501-358-3863,810 Amity Road
+Marmaduke,Greene,"Eddington Pharmaceuticals, Inc. dba/Marmaduke Family Pharm",870-597-2911,11901 Hwy. 49 North
+White Hall,Jefferson,Daily Dose Drugstore,870-619-2959,103 Timber LN
+Alma,Crawford,Coleman Pharmacy of Alma,479-262-2156,110 Fayetteville Ave
+Wynne,Cross,Two Sisters Family Medical,870-587-0900,421 S Falls Blvd
+Stuttgart,Arkansas,Buerkle Drug Company,870-673-1311,202 S Main St
+Little Rock,Pulaski,Baptist Health Medical Towers Pharmacy,501-202-2460,9601 Baptist Health Dr
+Hensley,Saline,Maple Creek Medical Clinic,501-261-7630,21019 Hwy 167
+Little Rock,Pulaski,Barg Family Clinic,501-224-5220,11415 Executive Center Drive
+Little Rock,Pulaski,Arkansas Primary Care Clinic,501-663-5221,6209 West 12th St
+Bryant,Saline,Bryant Family Clinic,501-847-0082,507 W Commerce Street
+bentonville,Benton,Lifespring womens healthcare,479-271-0005,1200 se 28th st
+helena,Phillips,"Pillow Clinic, PLLC",870-572-5996,101 Shirley Hicks Dr
+Fayetteville,Washington,UAMS Family Medical Center- Fayetteville,918-713-8000,1125 N. College Ave.
+Little Rock,Pulaski,Applied Research Center of Arkansas/ ARC Express Clinic,501-954-7822,11524 North Rodney Parham
+Paragould,Greene,Paragould Doctors Clinic,870-239-8503,4000 Linwood Drive
+Hot Springs,Garland,"HOT SPRINGS PHARMACY, LLC",501-760-2444,1210 Airport Rd
+Russellville,Pope,Conway Regional Medical Clinic-Russellville,501-253-8922,108 Skyline Drive
+Pottsville,Pope,Conway Regional Medical Clinic-Pottsville,501-253-8922,5395 W. Ash St.
+Clinton,Van Buren,Clinton Medical Clinic,501-253-8922,2526 Highway 65
+Mayflower,Faulkner,Mayflower Medical Clinic,501-253-8922,606 Highway 365
+Vo;pmoa,Faulkner,Conway Regional Medical Clinic-Vilonia,501-796-8484,1159 Main Street
+Conway,Faulkner,Hendrix Medical Clinic,501-253-8922,1700 Altus Street
+Conway,Faulkner,Conway Regional Prince Street Clinic,501-253-8922,1 Medical Lane
+Conway,Faulkner,Greenbrier Family Medicine-Conway Regional,501-253-8922,110 N. Broadview
+Conway,Faulkner,Conway Medical Group,501-253-8922,437 Denison Street
+North Little Rock,Pulaski,North Hills Family Clinic PA,501-945-4200,4509 East McCain Blvd
+Texarkana,Miller,Red River Pharmacy of Little Rock,903-792-1721,1550 Moores Ln
+Fayetteville,Washington,"University of Arkansas, Pat Walker Health Center",479-575-4451,525 N. Garland Ave.
+Little Rock,Pulaski,"MedExpress- Little Rock , Markham St",501-603-9885,5326 W.Markham St
+Springdale,Washington,MedExpress Urgent Care-Springdale,479-750-2971,1160 S. 40th St
+Searcy,White,Lowery Drug Mart #2,501-268-1900,123 Central Avenue
+Manila,Arkansas,Wagner Medical Clinic,870-561-3300,3644 W AR 18
+ARKADELPHIA,Clark,DEGRAY DIALYSIS,870-246-3021,312 PROFESSIONAL PARK DR
+CAMDEN,Ouachita,OUACHITA VALLEY DIALYSIS,870-837-1330,1114 WASHINGTON ST NW
+EL DORADO,Union,SOUTH ARKANSAS DIALYSIS,870-862-8788,620 W GROVE ST
+HOT SPRINGS,Garland,OUACHITA DIALYSIS,501-624-0196,1900 MALVERN AVE
+LITTLE ROCK,Pulaski,CENTRAL LITTLE ROCK DIALYSIS,501-664-6754,6 FREEWAY DR
+EL DORADO,Union,EL DORADO ACUTES,870-863-2000,700 W GROVE ST
+HOT SPRINGS,Garland,HOT SPRINGS DIALYSIS,501-624-0153,115 WRIGHTS ST
+RUSSELLVILLE,Pope,RUSSELLVILLE ACUTES,479-968-2841,1808 W MAIN ST
+MENA,Polk,MENA DIALYSIS CENTER,479-394-8085,1200 CRESTWOOD CIR
+SPRINGDALE,Washington,SPRINGDALE DIALYSIS,479-927-1957,2070 MCKENZIE RD
+BENTONVILLE,Benton,BENTONVILLE DIALYSIS,479-657-6220,1104 SE 30TH ST
+RUSSELLVILLE,Pope,RIVER VALLEY DIALYSIS,479-968-4687,3121 W 2ND CT
+FAYETTEVILLE,Washington,FAYETTEVILLE DIALYSIS,479-443-6688,509 E MILLSAP RD
+NORTH LITTLE ROCK,Pulaski,NORTH LITTLE ROCK DIALYSIS CENTER,501-945-2323,4505 E MCCAIN BLVD
+JACKSONVILLE,Pulaski,JACKSONVILLE CENTRAL DIALYSIS CENTER,501-241-1300,400 T P WHITE DR
+HOT SPRING,Garland,HOT SPRINGS ACUTES,731-334-3245,1900 MALVERN AVE
+LITTLE ROCK,Pulaski,LITTLE ROCK ACUTES,539-777-8440,2 SAINT VINCENT CIR
+LITTLE ROCK,Pulaski,ARKANSAS ACUTES,539-777-8440,2 SAINT VINCENT CIR
+MOUNTAIN HOME,Baxter,"RENAL CENTER OF MOUNTAIN HOME, LLC ACUTES",870-508-6500,624 HOSPITAL DR
+MOUNTAIN HOME,Baxter,RENAL CENTER OF MOUNTAIN HOME,870-508-6500,200 E 8TH ST
+NORTH LITTLE ROCK,Pulaski,DIAMOND STATE DIALYSIS,501-834-1393,9022 LANDERS RD
+BENTONVILLE,Benton,BENTONVILLE AT HOME,479-657-6220,1104 SE 30TH ST
+OSCEOLA,Mississippi,OSCEOLA DIALYSIS,870-563-4901,1332 W KEISER AVE
+MARION,Crittenden,RENAL CARE OF MARION,870-735-4087,1120 STATE HIGHWAY 77
+LITTLE ROCK,Pulaski,CENTRAL LITTLE ROCK AT HOME,501-664-6754,6 FREEWAY DR
+JACKSONVILLE,Pulaski,JACKSONVILLE CENTRAL AT HOME,501-241-1300,400 T P WHITE DR
+FORREST CITY,St. Francis,FORREST CITY AT HOME,870-494-4022,1501 NORTH WASHINGTON ST
+HOT SPRINGS,Garland,HOT SPRINGS AT HOME,501-624-0153,115 WRIGHTS ST
+TEXARKANA,Miller,MILLER COUNTY DIALYSIS,870-772-2756,816 EAST ST
+HOPE,Hempstead,HEMPSTEAD COUNTY DIALYSIS,870-722-8927,1301 N HERVEY ST
+MAGNOLIA,Columbia,SOUTHWEST ARKANSAS DIALYSIS,870-626-3004,405 N FREDERICK
+NORTH LITTLE ROCK,Pulaski,SPRINGHILL HOME TRAINING,501-604-0350,3401 SPRINGHILL DR
+CONWAY,Fulton,CONWAY DIALYSIS,501-328-2186,2445 CHRISTINA LN
+MARION,Crittenden,RENAL CARE MARION AT HOME,870-735-4006,1120 HWY 77
+BENTON,Saline,SALINE COUNTY DIALYSIS,501-776-1816,1200 N MAIN ST
+LITTLE ROCK,Pulaski,LITTLE ROCK MIDTOWN DIALYSIS,501-221-3123,2 LILE CT
+LITTLE ROCK,Pulaski,SOUTH LITTLE ROCK AT HOME,501-570-0543,6115 BASELINE RD
+JACKSONVILLE,Pulaski,PULASKI COUNTY DIALYSIS,501-982-1004,202 JOHN HARDEN DR
+NORTH LITTLE ROCK,Pulaski,SPRINGHILL DIALYSIS,501-945-3669,3401 SPRINGHILL DR
+SEARCY,White,SEARCY DIALYSIS,501-268-4400,3208 LANGLEY DR
+NEWPORT,Jackson,JACKSON COUNTY DIALYSIS,870-523-2607,1912 MCLAIN ST
+BATESVILLE,Independence,INDEPENDENCE COUNTY DIALYSIS,870-307-0828,1700 HARRISON ST
+LITTLE ROCK,Pulaski,SOUTH LITTLE ROCK DIALYSIS,501-570-0543,6115 BASELINE RD
+POCAHONTAS,Randolph,POCAHONTAS DIALYSIS,870-248-0138,404 CAMP RD
+FORREST CITY,St. Francis,FORREST CITY DIALYSIS,870-494-4022,1501 N WASHINGTON ST
+CONWAY,Faulkner,COLLEGE CITY DIALYSIS,501-504-2474,2630 DONAGHEY AVE
+WARREN,Bradley,BRADLEY COUNTY DIALYSIS,870-226-7180,204 BRAGG ST
+ROCKPORT,Hot Spring,MALVERN DIALYSIS,501-332-3000,1590 TANNER ST
+CROSSETT,Ashley,ASHLEY DIALYSIS,870-305-1225,1019 FRED LAGRONE DR
+Jonesboro,Craighead,Cardiology Associates of Jonesboro Inc.,870-935-6729,201 East Oak
+Russellville,Pope,Arkansas Tech University Health and Wellness Center,479-968-0329,1605 Coliseum Drive
+Rogers,Benton,Northwest Arkansas Internal Medicine,479-282-0316,5212 W Village Parkway
+Jonesboro,Craighead,St. Bernards Clopton Clinic,870-932-1198,300 Carson
+Hamburg,Ashley,Hamburg Pharmacy,870-853-2191,302 South Main Street
+Danville,Yell,Wayne Farms - Danville Occupational Health,479-495-4453,2301 East 8th Street
+BULL SHOALS,Marion,HAWKINS LAKESIDE PHARMACY,870-445-7188,902 CENTRAL BLVD
+Sherwood,Pulaski,CVS 10430,501-834-1090,8604 Highway 107
+Russellville,Pope,Monfee Medical Clinic,479-968-1245,3812 W. Main St.
+North Little Rock,Pulaski,David's Pharmacy dba The Medicine Shoppe,501-758-1010,3836 John F Kennedy Blvd
+West Memphis,Arkansas,Coast to Coast Medical,870-732-0332,2201 Horizon Drive
+Gosnell,Mississippi,Gosnell Drugs,870-751-9242,134 Bevill Ave
+Cabot,Lonoke,"GetWell Rx, LLC",501-422-6800,123 S 2nd St
+Fayetteville,Washington,"Delta Medical Infusion, LLC",479-445-6833,375 E. Millsap
+Blytheville,Mississippi,Family Medicine Associates of Blytheville,870-762-5360,1521 N. 10th St.
+Harrison,Boone,"Hometown Doc, PA",870-414-4000,620 N Main St
+Conway,Faulkner,Eric Woodard Clinic,501-450-6400,525 Hendrix Cv
+fort smith,Sebastian,"HEALTHSTAT,INC HSM",479-646-6161,4925 state line road
+Camden,Ouachita,Morrison's Clinic Pharmacy,870-836-2727,353 Cash RD
+Camden,Ouachita,Morrison's Pharmacy,870-836-8131,1286 Highway 278 Bypass
+LITTLE ROCK,Pulaski,Jimmerson Family HealthCare P.A. -  S University,501-569-9961,500 S UNIVERSITY
+Magnolia,Columbia,Southern Arkansas University,870-235-5237,100 E. University
+Star City,Lincoln,Beard Drug Company,870-628-4277,614 S. Lincoln Ave.
+Monticello,Drew,Jefferson County Dialysis dba Monticello Dialysis,870-367-3100,774 Jordan Drive
+Salem,Fulton,Salem Drug Company,870-895-7455,502 Hwy 62 West
+Little Rock,Pulaski,MATRIX MEDICAL NETWORK - AMAZON - LIT1,855-855-8644,7001 Zeuber Rd
+Van Buren,Crawford,Tyson-Van Buren Plant,855-855-8644,802 S 28th St
+Russellville,Pope,Tyson-Tyler Road Plant,855-855-8644,620 Tyler Road
+Rogers,Benton,Tyson-TOR Plant,855-855-8644,212 E Elm St
+Scranton,Logan,Tyson-RVI Scranton,855-855-8644,7755 N State Hwy 393
+Springdale,Washington,Tyson-Randall Road Plant,855-855-8644,671 W Randall Wobbe LN
+Pine Bluff,Jefferson,Tyson-Pine Bluff Plant,855-855-8644,5505 Jefferson Prkwy
+North Little Rock,Pulaski,Tyson-North Little Rock Plant,855-855-8644,3800 Progress St
+Nashville,Howard,Tyson-Nashville,855-855-8644,100 E Cassady St
+Hope,Hempstead,Tyson-Hope Plant,855-855-8644,275 Hempstead 278
+Green Forrest,Crawford,Tyson-Green Forest Plant,855-855-8644,601 Tyson Drive
+Grannis,Polk,Tyson- Grannis Plant,855-855-8644,8564 Hwy 71 S
+Fort Smith,Sebastian,Tyson-Fort Smith Plant,855-855-8644,1610 Midland Blvd
+Fayetteville,Washington,Tyson-Fayetteville Complex,855-855-8644,2615 S School Ave
+Dardanelle,Yell,Tyson- Dardanelle Plant,855-855-8644,1291 State HWY 7 N
+Texarkana,Miller,Tyson-Texarkana Truck Stop,855-855-8644,5465 Miller County 64
+Waldron,Scott,Tyson Waldron Plant,855-855-8644,442 Plant Street
+Springdale,Washington,Tyson-Corporate,855-855-8644,2200 W Don Tyson Pkwy
+Siloam Springs,Benton,Tyson-Cobb Vantress Corporate,855-855-8644,4703 US HWY 412 E
+Clarksville,Craighead,Tyson-Clarksville Plant,855-855-8644,301 E Cherry Street
+Rogers,Benton,Tyson-Chick-N-Quick Plant,855-855-8644,400 W Orlich St
+Berryville,Carroll,Tyson-Berryville Plant,855-855-8644,110 W Freeman Ave
+Springdale,Washington,Tyson- Berry Street Plant,855-855-8644,600 Berry Street
+Pineville,Izard,Tyson- Bear Hollow Farms,855-855-8644,340 Cobb LN
+Arkadelphia,Clark,Twin Rivers Health and Rehab,870-246-6337,3021 Twin Rivers Drive
+Helena,Phillips,M-C Drug Store,870-338-3414,533 Porter Street
+Little Rock,Pulaski,Autumn Road Family Practice,501-227-6363,904 Autumn Road
+Sheridan,Grant,"The Winston Clinic, PA",870-942-3000,506 Little Creek Cutoff
+Fayetteville,Washington,Mercy GoHealth Fayetteville,479-439-8120,3391 N. College Ave
+Springdale,Washington,Mercy GoHealth Springdale,479-318-0161,4962 Elm Springs Road
+Rogers,Benton,Mercy GoHealth Rogers,479-616-1485,2012 S. Promenade Blvd.
+Lewisville,Lafayette,Lafayette County Family Practice,870-921-3950,226 Spruce St
+FAYETTEVILLE,Washington,KARAS HEALTH CARE,479-435-5651,114 HARRISON AVE
+FAYETTEVILLE,Washington,KARAS HEALTH CARE,479-435-5651,767 W NORTH STREET
+Stuttgart,Arkansas,Stuttgart Dialysis,870-673-8823,805 Madison Street
+Damascus,Faulkner,Damascus Drug Inc,501-335-7041,5 AR Highway 124 W
+Van Buren,Crawford,BH URGENT CARE ALMA,479-709-7020,2521 Alma Hwy
+Van Buren,Crawford,BH FAMILY CLINIC VAN BUREN STE A,479-747-3399,209 W. Pointer Trail
+Fort Smith,Sebastian,BH FAMILY CLINIC KELLEY,479-573-7990,4700 Kelley Hwy
+Fort Smith,Sebastian,BH FAMILY CLINIC ELLSWORTH STE A,479-709-7440,5428 Ellsworth Rd
+Fort Smith,Sebastian,BH FAMILY CLINIC DODSON STE 195,479-573-7910,1500 Dodson
+Fort Smith,Sebastian,BH ADULT MEDICINE SPECIALISTS FORT SMITH,479-709-7260,1120 Lexington
+Fort Smith,Sebastian,Baptist Health Family Clinic - Chaffee Crossing,479-709-7150,11300 Roberts Blvd.
+Fort Smith,Sebastian,Baptist Health Family Clinic Southpointe,479-709-7120,3808 South Gary
+Fort Smith,Sebastian,Baptist Health Family Clinic- Massard,479-709-7250,4100 Massard Rd.
+Greenwood,Sebastian,Baptist Health Family Clinic Greenwood,479-996-5585,1480 West Center St.
+Van Buren,Arkansas,Baptist Health Family Clinic and Urgent Care- Gothic Ridge,479-747-1100,14 Gothic Ridge Road
+Fort Smith,Sebastian,Baptist Health Family and Occupational Clinic South,479-709-7465,8600 South 36th Terrace
+Fort Smith,Sebastian,Baptist Health Family Clinic Dodson,479-573-7840,1500 Dodson
+Helena,Phillips,RCG Mississippi/dba /Fresenius Kidney Care Helena,870-338-7800,108 D'Anna Place
+WARREN,Bradley,THE MEDICINE CABINET,870-466-5000,319 S MAIN ST
+North Little Rock,Pulaski,"Govinda Lohani, MD, PA",501-580-7952,4020 Richards Rd
+El Dorado,Union,"CSS Healthcare, LLC",870-639-3910,525 West Faulkner Street
+Little Rock,Pulaski,CHI Primary Care Midtowne Clinic,501-552-7900,1100 North University
+Arkadelphia,Clark,CHI St Vincent Primary Care - Arkadelphia,870-245-2240,3004 Pine St
+Mt Ida,Montgomery,CHI St Vincent Primary Care - Mt Ida,870-867-2175,320 Luzerne
+Hot Springs,Garland,CHI St Vincent Primary Care - Internal Medicine South,501-623-2781,1662 Higdon Ferry Rd
+Murfreesboro,Pike,CHI St Vincent Primary Care - Murfreesboro,870-285-3118,319 East 13th Street
+Hot Springs,Garland,CHI St Vincent Primary Care - 70W,501-767-6200,1707 Airport Rd
+Glenwood,Pike,CHI St Vincent Primary Care - Glenwood,870-356-4821,234 Broadway
+Hot Springs,Garland,CHI St Vincent Primary Care - 270W,501-767-9111,2825 Albert Pike
+Hot Springs,Garland,CHI St Vincent Primary Care - Hot Springs Village DeSoto,501-915-0936,903 DeSoto
+Hot Springs,Garland,CHI St Vincent Pediatrics - McAuley,501-321-2546,225 McAuley Court
+Hot Springs,Garland,CHI St Vincent Primary Care - Hot Springs Main,501-622-6500,One Mercy Lane
+Malvern,Hot Spring,CHI St Vincent Primary Care - Malvern,501-332-8612,1424 Tanner St
+Little Rock,Pulaski,CHI St Vincent Community Care - East,501-552-4710,2500 East 6th Street
+Sherwood,Pulaski,CHI St Vincent Primary Care - Sherwood,501-552-7262,7709 Hwy 107
+Jacksonville,Pulaski,CHI St Vincent Primary Care - Jacksonville,501-985-2537,1401 Braden St
+Little Rock,Pulaski,CHI St Vincent - Business Health & Convenient Care,501-552-8860,6800 Lindsey Rd
+Little Rock,Pulaski,CHI St Vincent - Little Rock Diagnostic Clinic,501-552-0500,10001 Lile Drive
+Little Rock,Pulaski,CHI St Vincent Primary & Convenient Care - University,501-562-4838,4202 South University Ave.
+Little Rock,Pulaski,CHI St Vincent Family Clinic Chenal,501-552-8150,16221 St. Vincent Way
+Springdale,Washington,Advanced Primary Care and Obstetrics,479-966-7331,5320 W Sunset Ave
+Bryant,Saline,Clearstone Medical Center,501-333-6654,3525 Hwy 5 North Suite 200
+Conway,Faulkner,Providence Family Medicine,501-499-1086,605 Salem Rd
+Conway,Faulkner,"TLC Pediatrics, PLLC",501-327-2444,955 Carolyn Lane
+Little Rock,Pulaski,"Labcorp Employer Services, Inc.",888-833-1006,500 S UNIVERSITY AVE
+Lonoke,Lonoke,CHI St Vincent Primary Care - Lonoke,501-676-0858,130 J.F. Blvd
+Scott,Pulaski,CHI St Vincent Primary Care - Scott,501-552-7999,15111 Hwy 165
+Springdale,Washington,Marathon Health-Springdale,479-717-1020,3880 Willowood Ave
+Batesville,Independence,Future Fuel Chemical Company,870-698-5310,2800 Gap Rd
+Springdale,Washington,Minimal Access Surgery Clinic,479-927-3100,5230 Willow Creek Drive
+Morrilton,Conway,CHI St Vincent Primary Care - Morrilton,501-354-4637,1711 E Harding St
+Jacksonville,Pulaski,CHI St Vincent Primary Care - Jacksonville Main St,501-982-2108,1110 W Main Street
+Conway,Faulkner,UCA Student Health Center,501-450-3136,201 Donaghey Ave
+Beebe,White,Health-Way Save-On Drugs,501-882-6471,1903 W Dewitt Henry Dr
+Arkadelphia,Clark,Ouachita Baptist University,870-245-5244,410 Ouachita Street
+CONWAY,Faulkner,CONWAY HEMATOLOGY ONCOLOGY,501-327-2995,350 SALEM RD
+Greers Ferry,Cleburne,Cornerstone Pharmacy Greers Ferry,501-825-6265,8470 Edgemont Road
+Magnolia,Arkansas,Premier Urgent Care,870-234-7435,50 Hwy 79 N
+Bradford,White,Winningham Pharmacy,501-344-2763,232 W Main Street
+Little Rock,Pulaski,Arkansas Internal Medicine Clinic PA,501-537-4590,1401 Kanis Park Drive
+Stuttgart,Arkansas,Lennox Wellness Center,870-727-6033,512 West Lennox Road
+Forrest City,St. Francis,Boar's Head Family Health & Wellness Center,870-581-4318,2530 West Broadway Ave
+Springdale,Washington,Springdale Dialysis Center,479-463-7000,2158 Butterfield Coach Rd
+Bentonville,Benton,Hidden Springs Dialysis,479-463-7000,3000 NW A Street
+Siloam Springs,Benton,Dialysis Centers of Siloam Springs,479-463-7000,2125 E Main Street
+Bentonville,Benton,Benton County Dialysis,479-463-7000,801 SE Plaza Ave
+Fayetteville,Washington,North Hills Dialysis Center,479-463-7000,107 E Monte Painter
+El Dorado,Union,Clean Harbors,870-863-7173,309 American Road
+Little Rock,Pulaski,"Enhanced Healthcare,LLC",501-420-2466,10201 West Markham
+Little Rock,Pulaski,Office Park Family Practice,501-225-9222,7 Office Park Dr.
+Fort Smith,Sebastian,TruCare Fort Smith,479-922-2253,7206 Highway 271 S
+Little Rock,Pulaski,"Home Health Care Agency of Arkansas, LLC",501-553-1953,1200 John Barrow
+Little Rock,Pulaski,Stephens Elementary,501-447-6400,3700 W. 18th St.
+Marion,Crittenden,Community Family Medical,870-559-2480,1139 Hwy 77
+Little Rock,Pulaski,Nayles Medical Clinic,501-371-0055,1400 Main Street
+Camden,Ouachita,"Wellness Clinic and Healthcare Consulting, PLLC",870-204-7249,426 Hospital Drive
+Pine Bluff,Jefferson,US Renal Care Pine Bluff,870-534-7400,2800 W. 28th Street
+North Little Rock,Pulaski,PharMerica,501-753-1529,3809 McCain Park Dr
+Arkadelphia,Clark,Heartland Pharmacy Arkadelphia,870-464-9560,2503 Pine St
+Little Rock,Pulaski,CVS Pharmacy #17611,501-801-3413,420 S University Ave
+Little Rock,Pulaski,Little Rock Walk in Clinic,501-291-2322,802 N University
+Jonesboro,Craighead,Bruised Reed,870-897-1541,217 E Cherry Ave
+PINE BLUFF,Jefferson,FIRST US CLINIC PA,870-535-4141,1801 W 40TH AVE
+Mena,Polk,"Ouachita Family Practice, LLC",479-394-5068-e,1210 Deqeen St.
+Fort Smith,Sebastian,Pharmacy Specialties Group,479-648-0000,12110 Hwy 71 S
+Camden,Ouachita,Ouachita Valley Family Clinic,870-836-8101,353 Cash Rd
+WEST MEMPHIS,Crittenden,CUFFIE HEALTHCARE ON WHEELS,870-394-4600,403 INGRAM BOULEVARD
+Jonesboro,Craighead,Tiger Safety LLC,870-268-4841,1 Nestle Way
+Little Rock,Pulaski,Baptist Health Community Outreach,501-202-1540,10117 Kanis Road
+Little Rock,Pulaski,University of Arkansas at Little Rock Health Services,501-916-3188,2801 South University Avenue
+Forrest City,St. Francis,East Arkansas Community College,870-633-4480,1700 Newcastle Road
+Malvern,Arkansas,Miller's Drug Store,501-332-2351,231 S. Main St.
+Little Rock,Pulaski,Waters of Cumberland,501-374-7565,1516 Cumberland Street
+Greenbrier,Faulkner,Greenbrier Nursing & Rehab Center,501-679-0860,16 Wilson Farm Rd.
+Pocahontas,Randolph,City Pharmacy-  Pocahontas,870-892-5517,606 S Park St
+Rogers,Benton,"Harvey Pediatrics, PLLC",479-254-1100,900 S 52nd Street
+pine bluff,Jefferson,"flowers pharmacy,llc",870-534-8366,1401 state street
+Conway,Arkansas,Salem Place Nursing and Rehab,501-327-4421,2401 Christina Lane
+Marion,Crittenden,The Local Pharm,870-739-5310,924 State Highway 77
+Mountain Home,Baxter,Lincoln Paden Medical Group,870-425-3030,405 Buttercup Drive
+Mount Holly,Union,"I Can Nursing, LLC",870-315-5921,267 Union Rd 81
+Rogers,Benton,"NWA MD Consulting, PLLC",479-845-7000,199 N 34th Street
+Newport,Jackson,The Blossoms at Newport Rehab & Nursing Center,870-523-6539,326 Lindley Lane
+Greenbrier,Faulkner,Family First Primary Care,501-679-3998,25 Business Park Dr
+WARREN,Bradley,SE ARKANSAS HUMAN DEVELOPMENT CENTER,870-226-6774,#1 CENTER CIRCLE
+pottsville,Pope,pottsville pharmacy,479-498-4130,7146 river rd
+HOT SPRINGS,Garland,HOMETOWN PHARMACY INC,501-760-5667,2228 ALBERT PIKE
+Little Rock,Pulaski,Natural State Genomics,501-753-0100,10915 North Rodney Parham Rd.
+HOT SPRINGS,Garland,LAKESIDE PHARMACY INC.,501-262-5400,998 SHADY GROVE RD
+North Little Rock,Saline,Buchanan's Performance Academy,501-349-2435,4810 W. Commerical Dr
+Bentonville,Benton,"Impact Health Biometric Testing, Inc.",305-219-3067,1202 NE McClain Road
+Springdale,Washington,Best Start Pediatrics,479-575-9359,5203 Willow Creek
+Rogers,Benton,Rapid Results Diagnostics - Rogers,479-367-6506,1051 W Pleasant Grove Rd
+Bentonville,Benton,Rapid Results Bentonville,479-553-7223,400 N Walton Blvd
+Hensley,Saline,Primary Care 360 Hensley,501-486-4045,20602 Arch St
+Salem,Fulton,"Alan Winberry, DDS",870-895-3609,730 HWY 62 West
+White Hall,Jefferson,Primary Care 360 White Hall,501-397-2604,103 Frankie Lane
+Hot Springs,Garland,"Lakeside Walk In Clinic, PLLC",501-781-3612,2230 Malvern Avenue
+El Dorado,Union,"Dr Ray, Pediatrics",870-862-8221,403 W Oak
+Pearcy,Garland,Mission Filled Drug Company,501-521-1500,250 Adam Brown Road
+Bryant,Saline,Baptist Health Family Clinic - Bryant,501-847-0289,4411 Hwy 5 North
+Cabot,Lonoke,Baptist Health Family Clinic - Cabot,504-843-6585,205 Westport Drive
+White Hall,Jefferson,Baptist Health Family Clinic - White Hall,870-247-7632,7500 Dollarway Road
+Sherwood,Pulaski,Sherwood Family Medical Center,501-835-0703,1308 E. Kiehl Avenue
+Conway,Faulkner,Baptist Health Family Clinic - Conway West,501-358-6720,625 United Drive
+Little Rock,Pulaski,Baptist Health Family Clinic - Hillcrest,501-663-4357,2601 Kavanaugh Blvd
+Beebe,White,Beebe Family Clinic,501-882-3388,47 Hwy 64 West
+Malvern,Hot Spring,Baptist Health Family Clinic - Malvern,501-337-9066,1234 S Main Street
+North Little Rock,Pulaski,Baptist Health Family Clinic - Lakewood,501-758-2294,2508 Crestwood Lane
+Maumelle,Pulaski,Baptist Health Family Clinic - Maumelle,501-851-7400,1701 Club Manor Road
+Little Rock,Pulaski,Baptist Health Family Clinic - Otter Creek,501-445-1331,11321 Interstate 30
+Perryville,Perry,Baptist Health Family Clinic - Perryville,501-889-5543,518 North Fourche Avenue
+Little Rock,Pulaski,Baptist Health Family Clinic - West,501-868-8410,6015 Chenonceau
+Conway,Faulkner,Baptist Health Pediatrics Clinic Conway,501-358-6892,625 United Drive
+Greenbrier,Faulkner,Greenbrier Family Clinic,501-679-4030,49 S Broadview
+North Little Rock,Pulaski,Baptist Health Specialty Clinic - NLR,501-945-0392,3500 Springhill Drive
+Little Rock,Pulaski,Baptist Health Family Clinic Pleasant Valley,501-224-2875,11719 Hinson Road
+Little Rock,Pulaski,Baptist Health Family Clinic - Baptist Health Drive,501-217-0500,9600 Baptist Health Drive
+Benton,Saline,Benton Family Clinic,501-778-8264,819 West Carpenter
+North Little Rock,Pulaski,Baptist Health Comprehensive Care,501-223-2860,3201 Springhill Drive
+Cabot,Lonoke,The Pediatric Clinic Cabot,501-843-0068,203B Plaza Blvd.
+Sherwood,Pulaski,The Pediatric Clinic,501-758-1530,1525 Country Club Rd.
+Dumas,Desha,Ascension DePaul Services,870-382-4878,145 West Waterman Street
+Ashdown,Little River,King Medical Clinic,870-898-5464,180 Hwy 71 S.
+russellville,Pope,russellville pediatric & adolescent clinic,479-498-0858,220 n sidney ave
+Conway,Faulkner,Conway Human Development Center,501-329-6851,150 E. Siebenmorgen
+Gould,Lincoln,Ascension DePaul Services- Gould,870-263-4317,407 S. Gould Avenue
+Jonesboro,Craighead,Apache Drive Children's Clinic,870-935-1800,3203 Methodist Drive
+Jonesboro,Craighead,Jonesboro Pediatric Clinic,870-333-5721,616 Southwest Drive
+Jonesboro,Craighead,Jonesboro Human Development Center,870-932-4043,4701 Colon Dr
+Barlett,Crittenden,Guardian Mid South Pharmacy,901-800-2100,3110 Stage Post Dr
+Melbourne,Izard,Allied Health Services,870-368-3100,600 North Main Street
+Little Rock,Pulaski,CYF Pharmacy,501-660-6897,"1521 Merrill dr, Ste D220"
+Bentonville,Benton,Living Tree Pediatrics,479-282-2966,1110 SE 30th Street
+Rogers,Benton,New Directions Health And Wellness,479-268-6404,"5431 W Pinnacle Point Dr, Ste 104"
+Booneville,Logan,Big World Drug Enterprises Inc.,479-675-3900,1531 East Main Street
+Little Rock,Pulaski,"8500 Kanis RD. Little Rock, AR 72204",501-569-9907,8500 Kanis RD.
+Malvern,Hot Spring,Higginbotham Family Clinic,501-337-9994,1002 Schneider Dr
+McCrory,Woodruff,Cache River Medical Clinic,870-731-0640,115 W. Kimberly Drive
+Jonesboro,Craighead,"Doctors Health Group, Inc.  d/b/a St. Bernards First Care",870-972-8181,415 E. Matthews
+Jonesboro,Craighead,"Doctors Health Group, Inc.  d/b/a St. BernardsFirst Care",870-972-8181,1001 W. Parker Rd
+Jonesboro,Craighead,"Doctors Health Group, Inc. d/b/a St Bernards Urgent Care",870-972-8181,333 Red Wolf Blvd.
+Jonesboro,Craighead,"OBGYN Associates of Jonesboro, Inc. d/b/a St. Bernards OBG",870-935-3990,800 South Church
+Forrest City,St. Francis,James T. Meredith Jr MD PA,870-633-4711,921 Holiday Drive
+Mansfield,Scott,Health-Wise Pharmacy - Mansfield,479-928-4499,213 East Howard
+Conway,Faulkner,Nabholz Construction Corporation - Conway,501-505-5165,604 Merriman St
+Hampton,Calhoun,"CABUN Rural Health Services, Inc",870-798-4299,402 Lee Street
+Bryant,Saline,Assurance Health and Wellness Clinic,501-481-8800,22461 Interstate 30
+Beebe,White,Baptist Health Urgent Care - Beebe,501-628-9212,2069 W Center St
+Walnut Ridge,Lawrence,NEA Reliant Healthcare Professionals Inc,870-886-8300,1045 W. Main St
+Paragould,Greene,Paragould Pediatrics,870-236-7337,4000 Linwood Dr
+Viola,Fulton,Sharp's Pharmacy Barn,870-900-1001,9746 Hwy 62 W
+Springdale,Washington,Resolute Healthcare,479-212-8492,2988 W Huntsville Ave
+1484 West 1st N,Nevada,Baptist Health Family Clinic Prescott,870-887-0155,1484 West 1st N
+Gurdon,Clark,Baptist Health Family Clinic Gurdon,870-353-2800,200 East Walnut St
+Arkadelphia,Clark,Baptist Health Family Clinic Caddo Valley,870-245-2198,10 Montgomery Dr.
+Bismarck,Hot Spring,Baptist Health Family Clinic Bismarck,501-865-2855,6679 Hwy 7
+Sparkman,Dallas,Baptist Health Family Clinic Sparkman,870-678-4010,104 West Taylor St
+Arkadelphia,Clark,Baptist Health Arkadelphia Medical Clinic,870-246-2471,2913 Cypress Rd
+Melbourne,Izard,Baxter County Regional Hospital INC/DBA: Hometown Clinic a,870-916-2150,1019 E Main St
+Mountain View,Stone,Baxter County Regional Hospital INC/DBA: Hometown Clinic F,870-269-9800,"803 West Main,"
+Mountain View,Stone,Baxter County Regional Hospital INC/DBA: Hometown Clinic a,870-269-3447,103 Mountain Place Drive
+Mountain Home,Baxter,Baxter County Regional Hospital INC/DBA:BRMC Fairlamb Clin,870-508-3870,614 Broadmoor Drive
+Mountain Home,Baxter,Baxter County Regional Hospital INC/DBA:BRMC Family on Mar,870-508-7600,675 Hwy 62 E
+Yellville,Marion,Baxter County Regional Hospital INC/DBA:BRMC Ahren's Clini,870-449-4221,414 West Old Main Street
+Mountain Home,Baxter,Baxter County Regional Hospital INC/DBA:BRMC Family Clinic,870-425-6122,899 Burnett Drive
+Batesville,Independence,"White River Health system, Inc DBA Batesville Family Care",870-793-1126,1215 Sidney St
+Green Forest,Carroll,Marathon Health at Tyson Green Forrest,870-204-7591,1001 East Main Street
+Little Rock,Pulaski,Kittell Clinic,501-539-9100,11412 Huron Lane
+FAYETTEVILLE,Washington,INFECTIOUS DISEASE SPECIALISTS OF NORTHWEST ARKANSAS,479-444-6522,4038 REMINGTON DRIVE
+North Little Rock,Pulaski,"Williams Counseling, Creating Opportunities for Advancemen",501-590-2488,13109 Faulkner Lake Rd.
+Bentonville,Benton,Integrated Dentistry PA,479-333-1300,1101 North East McClain Road
+Greenbrier,Faulkner,Greenbrier Children's Clinic,501-679-6796,10 Lois Lane
+Heber Springs,Cleburne,Baptist Health-Heber Springs Campus Clinic,501-887-3500,1800 Bypass Road
+Heber Springs,Cleburne,Baptist Health Family Clinic-Heber Springs,501-362-7538,1415 Hwy 25 B
+Greers Ferry,Cleburne,Baptist Health Family Clinic-Greers Ferry,501-825-8800,8544 Edgemont Road
+North Little Rock,Pulaski,Baptist Health Family Medicine Residency Clini,501-753-4132,3201 Springhill Drive
+North Little Rock,Pulaski,Baptist Health Internal Medicine Clinic,501-955-4530,3201 Springhill Drive
+Springdale,Washington,WH AR Medical PLLC dba Walmart Health,479-344-4038,4870 Elm Springs Rd
+England,Lonoke,Baptist health England Medical Clinic,501-842-3819,221 NE 2nd Street
+Dewitt,Arkansas,Baptist Health Dewitt Medical Clinic,870-946-0300,1703 S. Whitehead Dr.
+Hazen,Prairie,Baptist Health Hazen Medical Clinic,870-255-3954,102 W. Front Street
+Brinkley,Monroe,Baptist Health Brinkley Medical Clinic,870-734-4405,110 No. New York
+Stuttgart,Arkansas,Baptist Health Stuttgart Medical Clinic,870-673-7211,1609 No. Medical Dr.
+Clarendon,Monroe,Baptist Health Clarendon Medical Clinic,870-747-3349,198 So. Main
+Pine Bluff,Jefferson,Drug Room Inc,870-536-3980,1700 West 42nd Street
+Clarksville,Johnson,Clarksville Family Medical Center,479-705-8181,25 Professional Park Drive
+Harrison,Boone,Harrison Dialysis,870-204-6683,1409 Gladden St
+Paragould,Greene,"Paragould Family Care, PA",870-236-4001,5 Market Pl
+Calico Rock,Izard,Baxter County Regional Hospital INC/DBA: Calico Rock,870-916-2000,2161 Hwy 56
+Springdale,Washington,WH AR Medical PLLC dba Walmart Health,479-344-4038,4870 Elm Springs Rd SUITE B
+Little Rock,Pulaski,Lexicon Health and Wellness Clinic,501-912-7785,8914 Fourche Dam Pike
+Walnut Ridge,Lawrence,Lawrence County Family Clinic,870-886-3543,1210 West Main
+Harrisburg,Poinsett,Harrisburg Family Medical Center,870-578-5443,802 Illinois Street
+Arkadelphia,Clark,Student Health and Wellness Henderson State University,870-230-5102,1100 Henderson Street
+West Fork,Washington,Rest Assured Home Care LLC,479-294-3060,222 Rivendale Dr.
+Hope,Hempstead,Pafford Health Systems Medical Clinic,870-777-7660,100 East 20th Street
+LITTLE ROCK,Pulaski,COSTCO,501-817-8603,16901 CHENAL PARKWAY
+Dequeen,Sevier,Pilgrims Dequeen Nashville Complex,870-584-5221,401 South 3rd Street
+Bono,Craighead,NEA Reliant Healthcare Professionals  Inc,870-930-9990,9146 HWY 63 N
+Forrest City,St. Francis,St. Francis Discount Pharmacy,870-594-0760,1132 N. Washington St.
+Marion,Crittenden,Vital Wellness Clinic LLC,870-551-4099,4001 Commercial Center Dr Ste#1
+Texarkana,Miller,"NH Enterprises, LLC",903-276-3526,1201 E. 35th
+Texarkana,Miller,Total Access Health & Wellness,870-621-0081,3809 E. 9th Street
+Fort Smith,Arkansas,Baptist Health Urgent Care Zero St,479-259-9239,1910 S Zero St
+Cabot,Lonoke,Central Arkansas Family Clinic,501-422-6373,1106 S. Pine St
+North Little Rock,Pulaski,Baptist Health Family Medicine Residency Clinic,501-753-4132,3201 Springhill Drive
+Conway,Faulkner,Conway Children's Clinic,501-327-6000,2505 College Ave
+Fort Smith,Sebastian,"Mercy Rehabilitation Hospital, LLC",479-974-5700,6700 Chad Colley BLVD
+Mountain Home,Baxter,Baxter County Regional Hospital INC/DBA: Baxter Regional C,870-508-7369,628 Hospital Drive
+Rogers,Benton,Petty Medical Clinic,479-254-1005,3201 S. Market St.
+Fayetteville,Washington,"Dr. Hessel Kooistra, III M.D.",479-841-2736,10975 Rocky Creek Rd
+Fayetteville,Washington,"Lee Gray M.D., P.A.",479-530-0157,664 Foster Lane
+Fort Smith,Sebastian,Area Agency on Aging of Western Arkansas,479-783-4500,524 Garrison Ave
+Hot Springs,Garland,Henley Pediatrics PLLC,501-625-9047,3604 Central Ave
+Conway,Faulkner,Conway Outpatient Pharmacy,501-255-3500,2180 Ada Avenue
+Eureka Springs,Carroll,Eureka Springs Fire Department,479-253-9616,144 East Van Buren
+Cave City,Sharp,Walling Drug,870-232-0450,316 N Main St Ste A
+Beebe,White,Damascus Drug,501-882-5402,703 W Dewitt Henry Drive
+Hughes,St. Francis,Hughes Family Medicine Clinic,870-339-5006,211 S. Broadway St.
+Fayetteville,Washington,Rainbow Pediatrics,479-966-4664,3159 E. Mission Blvd.
+Magnolia,Columbia,Magnolia Pediatric Clinic,870-234-5171,306 E McNeil
+Texarkana,Miller,Gammon Healthcare Solutions PLLC,870-648-1305,1305 Arkansas Blvd
+Alexander,Pulaski,Kizzie Houston Psychiatrix,501-773-8175,11 Natchez Ln
+Hot Springs,Garland,Hot Springs Pediatric Clinic,501-321-1314,1920 Malvern Ave
+Bentonville,Benton,MANA Family Medicine SW Bentonville,479-464-5590,701 SW Regional Airport Blvd.
+Batesville,Independence,The Children's Clinic,870-262-1273,1710 Harrison Street
+Fayetteville,Washington,Northwest Arkansas Pediatrics,479-442-7322,3380 N. Futrall Drive
+Osceola,Mississippi,"Osceola, AR",870-563-2545,616 W Lee Ave
+North Little Rock,Pulaski,PrimeCARE Medical Clinic,501-812-6655,2504 McCain Blvd
+Arkadelphia,Clark,"Arkadelphia Clinic for Children and Young Adults, PA",870-246-8036,2850 Twin Rivers Dr
+Arkadelphia,Clark,DHS/DDS/Arkadelphia Human Development Center,870-246-8011,#1 Prator
+Conway,Faulkner,Conway,501-329-6851,150 East Siebenmorgen Rd
+Conway,Faulkner,Baptist Health Pediatric Clinic Conway,501-358-6892,625 United Dr
+Little Rock,Pulaski,Benny Green MD PA,501-224-6727,14309 Cantrell Road
+Hensley,Saline,Bitcare Medical Center,501-232-2602,20602 Arch Street Pike
+Mena,Polk,Mountain View Clinic,479-394-7301,1102 Crestwood cir
+Little Rock,Pulaski,The Shot Clinic,501-225-7468,10720 N Rodney Parham
+Booneville,Logan,Booneville Human Development Center/DHS/DDS/BHDC,479-675-1442,87 Reed Road
+Bryant,Saline,"HomeTown Family Health & Wellness, P.A.",501-521-1100,5206 highway 5 N
+LITTLE ROCK,Pulaski,"ALLOPLASTIC RECONSTRUCTION, INC",501-265-0100,3924 WEST MARKHAM ST
+Lake Village,Chicot,Fresenius Kidney Care,870-265-3837,505 St Mary Street
+Searcy,White,Advanced Care Hospital of White County,501-278-3155,1200 S Main Street
+Monticello,Drew,Woodside Medical,870-224-4411,940 Old Warren Rd
+Mountain Home,Baxter,McBride Rehabilitation Group LLC,870-425-5881,978 Coley Drive
+FLIPPIN,Marion,RXRN HEALTH INC DBA THE PHARMACY AT FLIPPIN STATION,501-313-1148,109 N 1ST ST
+Marvell,Phillips,East Arkansas Family Health Center- Marvell,870-829-1194,1008 W. Main Street
+Lepanto,Poinsett,Lepanto Family Health Center,870-475-2977,102 W. Broad
+Earle,Crittenden,Earle Family Health Center,870-792-7676,216 Arkansas Street
+Fort Smith,Sebastian,Guidance Center Primary Care,479-785-9400,3117 S. 70th Street
+Fort Smith,Sebastian,Avicenna Health,479-650-0132,4301 S 16th St
+Springdale,Washington,Advanced Healthcare NWA,479-571-2273,2111 S. Old Missouri Rd
+Bryant,Saline,Arkansas Pediatric Clinic Bryant,501-664-4117,1412 Woodland Dr
+Little Rock,Pulaski,Arkansas Pediatric Clinic University,501-664-4117,500 S University
+Forrest City,St. Francis,The Littles Pediatric Clinic,870-261-9149,5082 N. Washington St
+Dover,Pope,Rose Drug,479-331-2133,8880 Market St
+Fort Smith,Sebastian,Avicenna Health,479-936-9400,4301 S 16th
