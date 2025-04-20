@@ -22,36 +22,44 @@ Let \(x_j\) be a binary variable equal to 1 if candidate site \(j\) is selected,
 
 **Parameters**
 
-- \(I\): the set of demand nodes (Arkansas counties), indexed by \(i = 1,...,m\).
-- \(J\): the set of candidate facility locations, indexed by \(j = 1,...,n\).
-- \(a_i\): the population of county \(i\).
-- \(d_ij\): the distance in miles from the centroid of county \(i\) to site \(j\), computed via the haversine function.
-- \(S = 15\): the maximum service distance in miles that defines coverage.
-- \(P\): the exact number of sites to select.
+- \(I = \{1,\dots,m\}\): set of counties.  
+- \(J = \{1,\dots,n\}\): set of candidate sites.  
+- \(a_i\): population of county \(i\).  
+- \(d_{ij}\): haversine distance (miles) between county \(i\) centroid and site \(j\).  
+- \(S = 15\): service radius (miles).  
+- \(P\): number of sites to select.
 
 **Objective Function**
 
 We seek to maximize the total covered population across all counties:
 
-\(maximize Z = sum_{i in I} a_i y_i\).
+Maximize total covered population:
+\[
+\text{maximize } Z = \sum_{i \in I} a_i \, y_i
+\]
 
 **Constraints**
 
 Coverage constraints enforce that a county can only be covered if at least one selected site lies within \(S\) miles:
 
-\(for each i in I\):
-
-\(sum_{j: d_ij <= S} x_j >= y_i\).
+\[
+\sum_{j:\,d_{ij} \le S} x_j \;\ge\; y_i,
+\quad \forall\,i \in I.
+\]
 
 The facility-limit constraint requires exactly \(P\) sites to be opened:
 
-\(sum_{j in J} x_j = P\).
+\[
+\sum_{j \in J} x_j = P.
+\]
 
 Binary restrictions apply to both decision variables:
 
-\(x_j in {0,1}, for all j in J\);
-
-\(y_i in {0,1}, for all i in I\).
+\[
+x_j \in \{0,1\}, \quad \forall j\in J;
+\qquad
+y_i \in \{0,1\}, \quad \forall i\in I.
+\]
 
 This formulation captures the relationship between site selection and population coverage under the specified service threshold.
 
