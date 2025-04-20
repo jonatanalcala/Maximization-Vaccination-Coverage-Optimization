@@ -59,6 +59,98 @@ This formulation captures the relationship between site selection and population
 
 To apply this mathematical model to a code a computer can understand we created many functions that when all called together calculate our optimal site location and number. To start we needed a way to be able to tell how far apart two points were from one another so we created a function that calculates the haversine distance between two points. This is necessary as this will allow us to create the necessary radius. Speaking of radius we found an article titled " Spatial and Temporal Trends in Travel for COVID-19 Vaccinations”, we used this as a guide to determine our radius of 15 miles as we had to assume individuals would be willing to travel as far on average. Then we had to load our shapefile of Arkansas along with the population data, we then combined them together so we could reference them together. We then calculated the centroid point of each county which is what we will use to help us determine if we covered a county. We then created a function that would create a geopandas dataframe of the latitude and longitude of the vaccination sites we collected earlier. The geopandas dataframe from this step along with the geodataframe of the county borders and centroids were then passed into another function that along with our service radius of 15 miles calculated the coverage matrix. Our coverage matrix was binary i.e. 1 for the county Is covered or 0 for the county is not covered. We determined that a county was covered if its centroid fell within the service radius of the vaccination site or for very large counties it was within county borders. We then used a greedy algorithm to try and cover as much of the state as possible with using as few sites as possible. To figure out the correct number of sites we used a marginal gain function to calculate the percentage of the population we gained by adding a new site arbitrarily we said that if the next new site does not cover 2 percent of the population that we had reached the threshold. We then created a function that would map not only the state of Arkansas with county borders colored depending on county population but also all the possible sites in grey with the selected sites as red stars with their service radius drawn. We then combined all these functions into one main function that only required the file paths of the .shp file and the location of the csv storing the site information. With all of these functions we were able to determine we can cover over ninety-nine percent of the state with as few as 50 sites. 
 
+**Haversine Distance Function**: 
+
+This function computes the great-circle distance \(d_ij\) between county centroids and candidate sites, populating the distance parameter used in the coverage constraints. Counties whose distance to a site falls within the service radius \(S\) are marked as potentially covered.
+
+ ```{python}
+# 1. Compute Haversine Distance
+from math import radians, sin, cos, sqrt, atan2
+
+def haversine(lon1, lat1, lon2, lat2):
+    """Returns distance in miles between two coordinate pairs."""
+    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
+    dlon, dlat = lon2 - lon1, lat2 - lat1
+    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+    c = 2 * atan2(sqrt(a), sqrt(1 - a))
+    return 3958.8 * c  # Earth radius in miles
+ ```
+
+**Coverage Matrix Builder**:
+
+The ```{python}build_coverage_matrix``` function iterates through counties and sites, using the haversine function to assign a 1 in matrix M[i, j] when county \(i\) lies within 15 miles of site \(j\). This binary matrix directly implements the coverage constraints of the MCLP.
+
+```{python}
+# 2. Build Coverage Matrix
+import geopandas as gpd
+import pandas as pd
+
+def build_coverage_matrix(county_gdf, sites_gdf, radius=15):
+    """
+    Returns binary matrix M where M[i, j] = 1 if site j covers county i.
+    """
+    n_counties = len(county_gdf)
+    n_sites   = len(sites_gdf)
+    M = pd.DataFrame(0, index=county_gdf.index, columns=sites_gdf.index)
+
+    for i, county in county_gdf.iterrows():
+        cx, cy = county.geometry.centroid.x, county.geometry.centroid.y
+        for j, site in sites_gdf.iterrows():
+            sx, sy = site.longitude, site.latitude
+            if haversine(cx, cy, sx, sy) <= radius:
+                M.at[i, j] = 1
+    return M
+```
+
+**Greedy Heuristic**:
+
+The ```{python}greedy_cover``` procedure selects P sites by evaluating marginal gains in covered population at each iteration. It approximates the MCLP objective of maximizing the sum of populations covered (\(sum_i a_i y_i\)) under the constraint of opening exactly \(P\) sites, updating uncovered demand after each selection.
+
+```{python}
+# 3. Greedy Adding Heuristic for MCLP
+
+def greedy_cover(M, populations, P):
+    """
+    Select P sites to maximize covered population.
+    Returns selected site indices.
+    """
+    uncovered = populations.copy()
+    selected = []
+
+    for _ in range(P):
+        # compute marginal gain for each candidate
+        gains = {j: (M[j] * (uncovered > 0)).dot(populations)
+                 for j in M.columns.difference(selected)}
+        best = max(gains, key=gains.get)
+        selected.append(best)
+        # update uncovered
+        covered_by_best = M[best] == 1
+        uncovered[covered_by_best] = 0
+    return selected
+```
+
+**Visualization Function**:
+
+Finally, ```{python}plot_solution``` produces a map showing county populations, all candidate sites in gray, and the chosen sites highlighted with red stars and service-radius circles. This visual output validates and communicates the model’s coverage results.
+
+```{python}
+# 4. Visualize Solution
+
+def plot_solution(county_gdf, sites_gdf, selected, radius=15):
+    ax = county_gdf.plot(figsize=(10, 8), column='population', legend=True)
+    sites_gdf.plot(ax=ax, color='gray', markersize=5)
+    selected_sites = sites_gdf.loc[selected]
+    selected_sites.plot(ax=ax, color='red', marker='*', markersize=100)
+
+    for _, site in selected_sites.iterrows():
+        circle = site.geometry.buffer(radius / 69)  # approx degree buffer
+        gpd.GeoSeries(circle).plot(ax=ax, facecolor='none', edgecolor='red')
+    ax.set_title(f"MCLP Solution: {len(selected)} Sites, {coverage_pct}% Covered")
+    return ax
+```
+
+These functions combine to translate our mathematical formulation—distance calculations, binary coverage relationships, objective-driven site selection, and stakeholder-ready visualization—into an end-to-end executable pipeline for optimal site placement.
+
 ## Model Assumptions
 
 For our model to work, we made some assumptions. First, we had to assume the population is equally distributed among the counties. Distributing the population equally allows us to use the centroid to measure the county. Essentially, if the county’s centroid is covered, then the county is 100 percent covered. This assumption was created because county-level data was utilized, and the exact location of each household was unknown. The model also needed the current location of vaccination sites, and the team decided to use the current COVID-19 vaccination sites since the transition to administering the HPV vaccine would be simpler both physically and economically. Since only Arkansas vaccination sites are being utilized in the model, this caused the exclusion of vaccination clinics in neighboring states. Since our model only covers clinics within the Arkansas borders, this means that if an individual who lives on the Arkansas and Texas border is closer to the clinic in Texas, this would not be taken into account, and the model will only take the closest Arkansas clinic. For the model to function, the measurement must be defined. The team decided to minimize the distance between the clinic and not the time. This was selected because due to how it simplified the computations, due to the variability of transportation.
