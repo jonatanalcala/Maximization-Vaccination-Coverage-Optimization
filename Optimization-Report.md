@@ -69,15 +69,7 @@ To apply this mathematical model to a code a computer can understand we created 
 
 **Haversine Distance Function**: 
 
-\[
-d_{ij} = 2R \cdot \arcsin\left(\sqrt{
-\sin^2\left(\frac{\varphi_j - \varphi_i}{2}\right) +
-\cos(\varphi_i)\cos(\varphi_j)\sin^2\left(\frac{\lambda_j - \lambda_i}{2}\right)}
-\right),
-\]
-
-where \( \varphi \) and \( \lambda \) are latitudes and longitudes in radians, and \( R = 3958.8 \) miles is the Earth's radius.  
-Counties for which \( d_{ij} \leq S \) are considered within the service radius.
+This function calculates the great-circle distance \(d_{ij}\) between the centroid of a county and each candidate vaccination site using the haversine formula, which accounts for the Earth's spherical shape and provides an accurate distance in miles based on geographic coordinates. Specifically, it takes the latitude and longitude of both the county centroid and the site, converts them to radians, and applies the haversine formula to compute the arc distance along the Earth's surface. We used this function to determine whether a given county is covered by a particular site—if the distance is less than or equal to the defined service radius of 15 miles, then the site is considered to provide coverage for that county. This binary relationship between counties and sites forms the foundation of our coverage matrix and directly supports the MCLP model's constraints.
 
  ```{python}
 # 1. Compute Haversine Distance
