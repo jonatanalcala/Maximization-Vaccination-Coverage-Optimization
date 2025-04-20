@@ -69,13 +69,15 @@ To apply this mathematical model to a code a computer can understand we created 
 
 **Haversine Distance Function**: 
 
-This function computes the great‐circle distance \(d_{ij}\) between county centroids and candidate sites using the haversine formula:
 \[
-d_{ij} \;=\; 2R \,\arcsin\!\Bigl(\sqrt{\sin^2\!\bigl(\tfrac{\varphi_j - \varphi_i}{2}\bigr)
-  + \cos(\varphi_i)\,\cos(\varphi_j)\,\sin^2\!\bigl(\tfrac{\lambda_j - \lambda_i}{2}\bigr)}\Bigr),
+d_{ij} = 2R \cdot \arcsin\left(\sqrt{
+\sin^2\left(\frac{\varphi_j - \varphi_i}{2}\right) +
+\cos(\varphi_i)\cos(\varphi_j)\sin^2\left(\frac{\lambda_j - \lambda_i}{2}\right)}
+\right),
 \]
-where \(\varphi\) and \(\lambda\) are latitudes and longitudes in radians and \(R = 3958.8\) miles is the Earth’s radius.  
-Counties for which \(d_{ij} \le S\) are considered within the service radius.
+
+where \( \varphi \) and \( \lambda \) are latitudes and longitudes in radians, and \( R = 3958.8 \) miles is the Earth's radius.  
+Counties for which \( d_{ij} \leq S \) are considered within the service radius.
 
  ```{python}
 # 1. Compute Haversine Distance
