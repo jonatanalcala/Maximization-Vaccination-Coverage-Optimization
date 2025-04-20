@@ -69,7 +69,13 @@ To apply this mathematical model to a code a computer can understand we created 
 
 **Haversine Distance Function**: 
 
-This function computes the great-circle distance \(d_{ij}\) between county centroids and candidate sites, populating the distance parameter used in the coverage constraints. Counties whose distance to a site falls within the service radius \(S\) are marked as potentially covered.
+This function computes the great‐circle distance \(d_{ij}\) between county centroids and candidate sites using the haversine formula:
+\[
+d_{ij} \;=\; 2R \,\arcsin\!\Bigl(\sqrt{\sin^2\!\bigl(\tfrac{\varphi_j - \varphi_i}{2}\bigr)
+  + \cos(\varphi_i)\,\cos(\varphi_j)\,\sin^2\!\bigl(\tfrac{\lambda_j - \lambda_i}{2}\bigr)}\Bigr),
+\]
+where \(\varphi\) and \(\lambda\) are latitudes and longitudes in radians and \(R = 3958.8\) miles is the Earth’s radius.  
+Counties for which \(d_{ij} \le S\) are considered within the service radius.
 
  ```{python}
 # 1. Compute Haversine Distance
@@ -86,7 +92,13 @@ def haversine(lon1, lat1, lon2, lat2):
 
 **Coverage Matrix Builder**:
 
-The ```{python}build_coverage_matrix``` function iterates through counties and sites, using the haversine function to assign a 1 in matrix M[i, j] when county \(i\) lies within 15 miles of site \(j\). This binary matrix directly implements the coverage constraints of the MCLP.
+This function builds a binary coverage matrix \(M\), where each entry \(M_{ij} = 1\) indicates that county \(i\) is within 15 miles of candidate site \(j\), and \(M_{ij} = 0\) otherwise. This directly encodes the MCLP constraint:
+
+\[
+\sum_{j:\, d_{ij} \le S} x_j \ge y_i, \quad \forall i \in I,
+\]
+
+ensuring that a county is only considered covered if at least one selected site falls within the 15-mile service radius. We use the haversine distance between the county centroid and each site location to evaluate whether coverage exists.
 
 ```{python}
 # 2. Build Coverage Matrix
@@ -112,7 +124,19 @@ def build_coverage_matrix(county_gdf, sites_gdf, radius=15):
 
 **Greedy Heuristic**:
 
-The ```{python}greedy_cover``` procedure selects P sites by evaluating marginal gains in covered population at each iteration. It approximates the MCLP objective of maximizing the sum of populations covered (\(sum_i a_i y_i\)) under the constraint of opening exactly \(P\) sites, updating uncovered demand after each selection.
+This function approximates the solution to the Maximal Coverage Location Problem by using a greedy heuristic. At each step, it selects the candidate site \(j \in J\) that yields the largest marginal gain in newly covered population:
+
+\[
+\text{marginal gain}_j = \sum_{i \in I} a_i \cdot \mathbb{1}[\text{county } i \text{ is newly covered by site } j],
+\]
+
+updating the uncovered population after each site is selected. This process repeats until exactly \(P\) sites are chosen, adhering to the constraint:
+
+\[
+\sum_{j \in J} x_j = P.
+\]
+
+This method is a computationally efficient way to approach the MCLP when exact optimization is too costly.
 
 ```{python}
 # 3. Greedy Adding Heuristic for MCLP
@@ -139,7 +163,14 @@ def greedy_cover(M, populations, P):
 
 **Visualization Function**:
 
-Finally, ```{python}plot_solution``` produces a map showing county populations, all candidate sites in gray, and the chosen sites highlighted with red stars and service-radius circles. This visual output validates and communicates the model’s coverage results.
+This function creates a map of Arkansas that visually represents the model results. Counties are shaded according to their population, all candidate vaccination sites are marked in gray, and selected optimal sites are shown as red stars. Around each selected site, a red circle represents the 15-mile service radius, calculated using:
+
+\[
+\text{radius (in degrees)} \approx \frac{15}{69},
+\]
+
+where 69 is the approximate number of miles per degree of latitude. This visualization helps verify model performance and clearly communicates how much of the population is within reach of selected facilities.
+
 
 ```{python}
 # 4. Visualize Solution
