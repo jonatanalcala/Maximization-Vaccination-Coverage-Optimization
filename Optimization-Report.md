@@ -69,7 +69,7 @@ To apply this mathematical model to a code a computer can understand we created 
 
 **Haversine Distance Function**: 
 
-This function computes the great-circle distance \(d_ij\) between county centroids and candidate sites, populating the distance parameter used in the coverage constraints. Counties whose distance to a site falls within the service radius \(S\) are marked as potentially covered.
+This function computes the great-circle distance \(d_{ij}\) between county centroids and candidate sites, populating the distance parameter used in the coverage constraints. Counties whose distance to a site falls within the service radius \(S\) are marked as potentially covered.
 
  ```{python}
 # 1. Compute Haversine Distance
