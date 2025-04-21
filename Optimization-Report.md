@@ -201,3 +201,17 @@ Further enhancements include allowing out-of-state clinics near the Arkansas bor
 ## Key Takeaways
 
 First of all, Arkansas ranks 43rd in the United States in HPV vaccination rates, so clearly there is room for improvement. Second, our model shows that if the state strategically places 50 facilities with a 15-mile service radius, then there is a near-complete coverage of the population. A caveat is that once more than 50 clinics are added to the state, this will lead to diminishing returns; additional facilities only marginally increase coverage. Finally, it's important to note that this model doesn't consider real-world constraints like staffing, cost, or supply chain logistics—just population and geography. 
+
+## References
+
+- Church, R. L., & ReVelle, C. S. (1976). *The Maximal Covering Location Problem*. *Papers in Regional Science*, *32*(1), 101–118. https://doi.org/10.1007/BF01942293
+
+- Cochran, A. L., Wang, J., McKinley, M. W., Iacobucci, E., Vinella-Brusher, E., & McDonald, N. C. (2023). *Spatial and temporal trends in travel for COVID-19 vaccinations*. *AJPM Focus*, *2*(3), 100122. https://doi.org/10.1016/j.focus.2023.100122
+
+- COVID-19 Vaccination Clinics & Locations – Arkansas Department of Health. (2024, May 30). *Arkansas Department of Health*. https://healthy.arkansas.gov/programs-services/diseases-conditions/covid-19/covid-19-vaccines/covid-19-vaccination-clinics-locations/
+
+- Cubit Planning. (n.d.). *Arkansas demographics by Cubit*. Arkansas-Demographics.com. Retrieved April 20, 2025, from https://www.arkansas-demographics.com/
+
+- Mayo Clinic. (2021, October 12). *HPV infection – symptoms and causes*. *Mayo Clinic*. https://www.mayoclinic.org/diseases-conditions/hpv-infection/symptoms-causes/syc-20351596
+
+- United Health Foundation. (2023). *HPV vaccination in Arkansas*. *America’s Health Rankings*. Retrieved April 20, 2025, from https://www.americashealthrankings.org/explore/measures/Immunize_HPV/AR
